@@ -1,0 +1,55 @@
+{
+  "locked_anchors": {
+    "label": {
+      "phrase": "Recharge-wala Ghar ka Net",
+      "abbreviation": "RWGKN",
+      "job": "Names the category",
+      "verbatim_required": true
+    },
+    "rule": {
+      "phrase": "Jitne din recharge, utne din net",
+      "abbreviation": "JDRUDN",
+      "job": "States the operating logic (invariant)",
+      "verbatim_required": true,
+      "placement_norm": "End-slate or summary line; must land at least once in the creative"
+    },
+    "emotion": {
+      "phrase": "Chale aapke hisaab se",
+      "abbreviation": null,
+      "job": "Names how it feels (user agency)",
+      "verbatim_required": true
+    }
+  },
+  "bridge_benefit": {
+    "phrase": "Jitni zarurat, utna recharge",
+    "abbreviation": "JZUR",
+    "job": "Benefit template that flexes per need-state. Sits between the rule (JDRUDN) and the emotional anchor (Chale aapke hisaab se) as the connective benefit line. NOT a fourth rung.",
+    "verbatim_required": false,
+    "examples": [
+      "exam ke 15 din ka recharge",
+      "match wale din ka recharge",
+      "abhi 2 din, salary aane pe poora mahina",
+      "ghar par nahi, toh recharge nahi"
+    ],
+    "rule_vs_benefit": {
+      "rule_JDRUDN": {
+        "tells_people": "how this thing works",
+        "analogy_movie_ticket": "Ticket kharido → movie dekho.",
+        "analogy_water_bottle": "Button dabao toh paani niklega.",
+        "is_invariant": true,
+        "why_locked": "Same operating logic for every user, every zone, every need. Never changes — so it is the thing repeated until it lodges."
+      },
+      "benefit_JZUR": {
+        "tells_people": "why this rule is useful",
+        "analogy_movie_ticket": "Paise waste nahi honge.",
+        "analogy_water_bottle": "Jab pyaas lage tab use karo.",
+        "is_contextual": true,
+        "why_flexed": "Same benefit logic, different clothing per situation. Each need-state fills the template differently."
+      },
+      "both_are_needed": "Rule alone leaves no felt benefit. Benefit alone leaves no understanding of how. Creatives carry both: the locked rule as the memory anchor, the benefit articulation in the body."
+    }
+  },
+  "underlying_principle": "Lock the constant (RWGKN, JDRUDN, Chale aapke hisaab se). Flex the contextual (benefit articulation per situation).",
+  "three_rung_guard": "JZUR is the connective benefit line between rule and emotion. It does NOT displace 'Chale aapke hisaab se' (which does a different job: how-it-feels / user agency). Three rungs, three jobs.",
+  "source_note": "Brief §4 + SD/Shiva/Nikhil Slack alignment (2026-05). SD's water-bottle and movie-ticket analogies should be used verbatim with the team as clean teaching devices. The locked memory line remains 'Jitne din recharge, utne din net' (not Shiva's intermediate variant 'Jitne din recharge, utne din ghar ka net'); the ghar anchor lives in RWGKN, the rule does not need to re-carry it. See docs/OPEN_ITEMS.md."
+}

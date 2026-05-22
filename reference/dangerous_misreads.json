@@ -1,0 +1,29 @@
+{
+  "misreads": [
+    {
+      "id": "mobile_data_product",
+      "priority": "PRIMARY",
+      "description": "User reads Wiom as a mobile-data top-up product (e.g., interprets daily recharge + ₹23/day as a Jio/Airtel mobile pack)",
+      "why_dangerous": "Already showing up in mid-funnel ads. Daily recharge is strongly associated with mobile internet. ₹23/day sounds like a mobile top-up. The 'ghar' anchor is what prevents it.",
+      "prevention": "Explicit, unmistakable household / whole-home anchoring — visual, audio, or both. Never lead on flexibility without ghar anchor.",
+      "source": "Context Note: 'The dangerous misunderstanding is mobile data product.' Brief §7."
+    },
+    {
+      "id": "broadband_fiber_comparison",
+      "priority": "SECONDARY",
+      "description": "User reads Wiom as broadband / fiber alternative, compares on speed / Mbps / monthly plan",
+      "why_dangerous": "Pulls user back into the old evaluation frame. Wiom loses on speed/Mbps comparisons; the recharge advantage gets buried.",
+      "prevention": "Avoid telecom category language. No speed wars, OTT bundles, fiber framing, Mbps claims.",
+      "source": "Context Note + Framework Gate 2."
+    },
+    {
+      "id": "cheap_wifi",
+      "priority": "SECONDARY",
+      "description": "User reads Wiom as low-cost WiFi — affordability without the category reframing",
+      "why_dangerous": "Reduces Wiom to commodity. Sustained, this collapses the category back into broadband.",
+      "prevention": "No 'cheapest', 'best value', 'sasta WiFi' framing. Affordability is reframed as 'manageable commitment + recharge control', not 'low price'.",
+      "source": "Principles §6 NEVERs. Context Note language discipline."
+    }
+  ],
+  "weighting_rule": "When weighing misread risk, mobile-data-product is weighted hardest. Broadband and cheap-WiFi are secondary. Do not weight all misreads equally."
+}

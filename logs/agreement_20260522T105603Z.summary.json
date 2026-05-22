@@ -1,0 +1,159 @@
+{
+  "summary": {
+    "n_concepts": 12,
+    "overall_verdict_agreement_pct": 100.0,
+    "g1_verdict_agreement_pct": 100.0,
+    "g2_verdict_agreement_pct": 91.7,
+    "run_a_ground_truth_accuracy_pct": 91.7,
+    "run_b_ground_truth_accuracy_pct": 91.7,
+    "total_estimated_cost_usd": 0.3715,
+    "log_path": "C:\\Users\\nikhi\\wiom-maker-checker\\logs\\agreement_20260522T105603Z.jsonl",
+    "passes_success_criterion_section_17_1": true
+  },
+  "rows": [
+    {
+      "concept_id": "PASS-01",
+      "gold_overall": "PASS",
+      "gold_g1": "PASS",
+      "gold_g2": "PASS",
+      "a_overall": "PASS",
+      "b_overall": "PASS",
+      "a_g1": "PASS",
+      "b_g1": "PASS",
+      "a_g2": "PASS",
+      "b_g2": "PASS"
+    },
+    {
+      "concept_id": "PASS-02",
+      "gold_overall": "PASS",
+      "gold_g1": "PASS",
+      "gold_g2": "PASS",
+      "a_overall": "PASS",
+      "b_overall": "PASS",
+      "a_g1": "PASS",
+      "b_g1": "PASS",
+      "a_g2": "PASS",
+      "b_g2": "PASS"
+    },
+    {
+      "concept_id": "PASS-03",
+      "gold_overall": "PASS",
+      "gold_g1": "PASS",
+      "gold_g2": "PASS",
+      "a_overall": "PASS",
+      "b_overall": "PASS",
+      "a_g1": "PASS",
+      "b_g1": "PASS",
+      "a_g2": "PASS",
+      "b_g2": "PASS"
+    },
+    {
+      "concept_id": "PASS-04",
+      "gold_overall": "PASS",
+      "gold_g1": "PASS",
+      "gold_g2": "PASS",
+      "a_overall": "PASS",
+      "b_overall": "PASS",
+      "a_g1": "PASS",
+      "b_g1": "PASS",
+      "a_g2": "PASS",
+      "b_g2": "PASS"
+    },
+    {
+      "concept_id": "ITERATE-01",
+      "gold_overall": "ITERATE",
+      "gold_g1": "FAIL",
+      "gold_g2": "PASS",
+      "a_overall": "ITERATE",
+      "b_overall": "ITERATE",
+      "a_g1": "FAIL",
+      "b_g1": "FAIL",
+      "a_g2": "PASS",
+      "b_g2": "FAIL"
+    },
+    {
+      "concept_id": "ITERATE-02",
+      "gold_overall": "ITERATE",
+      "gold_g1": "FAIL",
+      "gold_g2": "PASS",
+      "a_overall": "ITERATE",
+      "b_overall": "ITERATE",
+      "a_g1": "FAIL",
+      "b_g1": "FAIL",
+      "a_g2": "PASS",
+      "b_g2": "PASS"
+    },
+    {
+      "concept_id": "ITERATE-03",
+      "gold_overall": "ITERATE",
+      "gold_g1": "PASS",
+      "gold_g2": "FAIL",
+      "a_overall": "ITERATE",
+      "b_overall": "ITERATE",
+      "a_g1": "PASS",
+      "b_g1": "PASS",
+      "a_g2": "FAIL",
+      "b_g2": "FAIL"
+    },
+    {
+      "concept_id": "ITERATE-04",
+      "gold_overall": "ITERATE",
+      "gold_g1": "FAIL",
+      "gold_g2": "PASS",
+      "a_overall": "KILL",
+      "b_overall": "KILL",
+      "a_g1": "FAIL",
+      "b_g1": "FAIL",
+      "a_g2": "FAIL",
+      "b_g2": "FAIL"
+    },
+    {
+      "concept_id": "KILL-01",
+      "gold_overall": "KILL",
+      "gold_g1": "FAIL",
+      "gold_g2": "PASS",
+      "a_overall": "KILL",
+      "b_overall": "KILL",
+      "a_g1": "FAIL",
+      "b_g1": "FAIL",
+      "a_g2": "PASS",
+      "b_g2": "PASS"
+    },
+    {
+      "concept_id": "KILL-02",
+      "gold_overall": "KILL",
+      "gold_g1": "FAIL",
+      "gold_g2": "FAIL",
+      "a_overall": "KILL",
+      "b_overall": "KILL",
+      "a_g1": "FAIL",
+      "b_g1": "FAIL",
+      "a_g2": "FAIL",
+      "b_g2": "FAIL"
+    },
+    {
+      "concept_id": "KILL-03",
+      "gold_overall": "KILL",
+      "gold_g1": "FAIL",
+      "gold_g2": "FAIL",
+      "a_overall": "KILL",
+      "b_overall": "KILL",
+      "a_g1": "FAIL",
+      "b_g1": "FAIL",
+      "a_g2": "FAIL",
+      "b_g2": "FAIL"
+    },
+    {
+      "concept_id": "KILL-04",
+      "gold_overall": "KILL",
+      "gold_g1": "FAIL",
+      "gold_g2": "PASS",
+      "a_overall": "KILL",
+      "b_overall": "KILL",
+      "a_g1": "FAIL",
+      "b_g1": "FAIL",
+      "a_g2": "FAIL",
+      "b_g2": "FAIL"
+    }
+  ]
+}

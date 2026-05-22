@@ -1,0 +1,122 @@
+[
+  {
+    "concept_id": "PASS-01",
+    "format": "video_15s",
+    "script_or_copy": "Beta (8 yrs, on phone): 'Papa, match dekhna hai!' Father: '1.5 GB mein first innings bhi nahi chalegi.' Mother (entering with chai): 'Aur poore mahine ka plan sirf ek match ke liye?' Father pulls out phone, opens Wiom app: 'Match wale din ka recharge — bas aaj ke liye.' Cut to whole family watching match on TV via casting from his phone. End-slate (locked): 'Recharge-wala Ghar ka Net. Jitne din recharge, utne din net.'",
+    "visual_description": "Small living room, real-feeling household — saree-clad mother, simple TV, plastic chai cups. Whole family physically present in the same frame. Wiom logo small at bottom centre on end-slate, black background, pink only on logo.",
+    "gold_overall_verdict": "PASS",
+    "gold_g1": "PASS",
+    "gold_g2": "PASS",
+    "gold_notes": "Clean RWGKN: ghar anchor via family-in-living-room + 'poore ghar ka net' inferable from cast-to-TV; recharge mechanic explicit ('match wale din ka recharge'); locked JDRUDN at end. No kill-list words."
+  },
+  {
+    "concept_id": "PASS-02",
+    "format": "video_18s",
+    "script_or_copy": "Young man (early-20s) at electronics market, looking at signs. Voiceover (his thought): 'WiFi lene jaa raha tha — mahine ka 700, install ka 1500.' He stops at a Wiom poster: 'Phir Wiom dekha. Ghar ke liye net — jitne din chahiye utne din ka recharge. ₹23 se shuru.' Cut to him at home, family using net on TV + phones. End-slate: 'Recharge-wala Ghar ka Net. Jitne din recharge, utne din net.' Caption beneath: 'Chale aapke hisaab se.'",
+    "visual_description": "First half outdoors in a small-town market, second half inside his home — mother cooking, sister studying, both using net. Real interiors, not aspirational. Logo small, bottom right, end-slate only.",
+    "gold_overall_verdict": "PASS",
+    "gold_g1": "PASS",
+    "gold_g2": "PASS",
+    "gold_notes": "Capture-bridge done right: 'WiFi lene jaa raha tha' is the user's own voice at the hook; creative converts to RWGKN explicitly ('ghar ke liye net') and lands JDRUDN at end. Kill-list word is bridge, NOT identity."
+  },
+  {
+    "concept_id": "PASS-03",
+    "format": "video_15s",
+    "script_or_copy": "Kitchen. Mother chopping vegetables. Daughter (teenager): 'Maa, hotspot khatam ho gaya. Online class kal hai.' Mother (calmly, opens Wiom app on her phone): 'Abhi 2 din ka kar leti hoon. Salary aaye toh poora mahina laga denge.' Cut to daughter on laptop, brother also using phone, both on home net. End-slate: 'Recharge-wala Ghar ka Net. Jitne din recharge, utne din net.'",
+    "visual_description": "Real kitchen — small, lived-in. Mother in everyday salwar. Two children visible using net simultaneously in same room. Closing frame: family wide shot. No music, just diegetic kitchen sounds.",
+    "gold_overall_verdict": "PASS",
+    "gold_g1": "PASS",
+    "gold_g2": "PASS",
+    "gold_notes": "Salary-delay need-state. JZUR-shaped benefit articulation ('abhi 2 din ka, salary aane pe poora mahina'). Ghar anchor via household setting + multi-person household usage. Recharge mechanic explicit. JDRUDN at end. No kill-list words."
+  },
+  {
+    "concept_id": "PASS-04",
+    "format": "static_feed",
+    "script_or_copy": "Headline (primary): 'Sabki zarurat alag. Sabka recharge alag.' Body (Hindi): 'Beta ka exam — 15 din. IPL match — 1 din. Maa ka serial — 28 din. Ghar ke liye net, jitne din chahiye utne din.' CTA: 'Wiom dekhiye.' Footer locked line: 'Recharge-wala Ghar ka Net. Jitne din recharge, utne din net.'",
+    "visual_description": "Static feed image, 1:1. Black background. Centre: a household icon split into four panels, each showing a different family member with their need-state and a recharge duration tag (15/1/28/2 din). Wiom logo bottom centre, small, pink-on-black.",
+    "gold_overall_verdict": "PASS",
+    "gold_g1": "PASS",
+    "gold_g2": "PASS",
+    "gold_notes": "Multi-person duration menu pattern. Ghar anchor explicit in copy ('ghar ke liye net'). JDRUDN footer. Visualizes 'Chale aapke hisaab se' via the four-panel split. No kill-list words."
+  },
+  {
+    "concept_id": "ITERATE-01",
+    "format": "video_15s",
+    "script_or_copy": "Father (in shop, holding old monthly broadband bill): 'Poore mahine ka bill ek saath kyun?' Voiceover: 'Wiom try karo — jitne din chahiye utne din ka net. Sirf ₹23 se.' End-slate (locked rule only): 'Jitne din recharge, utne din net.'",
+    "visual_description": "Father at shop counter, then quick cut to him at home using net on phone. Home interior briefly visible but not foregrounded. End-slate: white text on black, Wiom logo small.",
+    "gold_overall_verdict": "ITERATE",
+    "gold_g1": "FAIL",
+    "gold_g2": "PASS",
+    "gold_notes": "G1 fails on ghar_anchor_present — 'ghar ka net' is never said and the household is briefly glimpsed but not emotionally central. Fix is a four-word add: change end-slate to 'Recharge-wala Ghar ka Net. Jitne din recharge, utne din net.' Single-line rewrite → ITERATE not KILL."
+  },
+  {
+    "concept_id": "ITERATE-02",
+    "format": "video_15s",
+    "script_or_copy": "Family living room. Mother on phone, hotspot bar dropping. Children complaining. Mother to camera: 'Ek phone se poora ghar kab tak?' Voiceover: 'Wiom — poore ghar ke liye net.' Cut to family using net on multiple devices. End-slate: 'Wiom. Ghar ka Net.'",
+    "visual_description": "Real living room, family clearly visible, household usage centred. End-slate is brand-only — no rule visible.",
+    "gold_overall_verdict": "ITERATE",
+    "gold_g1": "FAIL",
+    "gold_g2": "PASS",
+    "gold_notes": "G1 fails on recharge_shape_clear — household problem is clear, ghar anchor present, but recharge mechanic / duration flexibility is never conveyed; JDRUDN is missing entirely. Fix: add a duration line ('1 din se 28 din tak, jitne din chahiye') and the locked JDRUDN on end-slate. Single-line rewrite → ITERATE."
+  },
+  {
+    "concept_id": "ITERATE-03",
+    "format": "video_18s",
+    "script_or_copy": "Constraint-first opener: Family of four, daughter's exams next week, no home net. Daughter: 'Mobile data se kab tak padhungi?' Father pulls out phone: 'Exam ke 15 din ka recharge — Wiom se.' Mid-script tagline (on-screen card): 'Wiom — sasti WiFi, bina jhanjhat.' Cut to daughter studying online. End-slate: 'Recharge-wala Ghar ka Net. Jitne din recharge, utne din net.'",
+    "visual_description": "Real household. Daughter at study desk. Father, mother, younger brother also in frame. Mid-script tagline appears as a stylized graphic card.",
+    "gold_overall_verdict": "ITERATE",
+    "gold_g1": "PASS",
+    "gold_g2": "FAIL",
+    "gold_notes": "G2 fails on identity — the mid-script card 'Wiom — sasti WiFi, bina jhanjhat' defines Wiom as cheap WiFi. Rest of the script is clean (ghar anchor strong, recharge mechanic clear, JDRUDN locked end-slate). Fix is a single-line rewrite of the mid-script card to 'Wiom — poore ghar ka net, jitne din chahiye utne din.' → ITERATE."
+  },
+  {
+    "concept_id": "ITERATE-04",
+    "format": "video_15s",
+    "script_or_copy": "Voiceover (over montage): 'WiFi chahiye? Sasta WiFi? Bina installation, bina mahine ka bill?' Cut to Wiom app on phone. 'Wiom dekhiye. ₹23 se shuru.' End-slate: 'Wiom. Net jab chahiye, jitna chahiye.'",
+    "visual_description": "Quick-cut montage of various young people on phones outdoors and in cafes. Brief shot of one bedroom but no clear household / family. End-slate brand-only.",
+    "gold_overall_verdict": "KILL",
+    "gold_g1": "FAIL",
+    "gold_g2": "FAIL",
+    "gold_notes": "Gold label revised after Phase-1 run on 2026-05-22 — two independent model runs called KILL with consistent reasoning: three independent structural gaps (no ghar anchor anywhere, no RWGKN conversion in the body, no JDRUDN), not a single-line fix. 'Sasta WiFi' opens the ad and the creative never converts away — so the kill-list phrase ends up defining the frame, which makes it identity-use (G2 FAIL) not capture-bridge. Original gold (ITERATE / G2 PASS) was generous — model was right. See docs/OPEN_ITEMS.md item H. A replacement genuine-ITERATE concept will be added in the next golden-set iteration to preserve the 4/4/4 composition."
+  },
+  {
+    "concept_id": "KILL-01",
+    "format": "video_15s",
+    "script_or_copy": "Voiceover (over phone close-up): 'Mobile recharge khatam? Hotspot slow? Ab ghar ke liye bhi mobile recharge jaisa hi recharge. Sirf ₹23 mein 4G net — pure ghar ke liye. Roz nahi chahiye? Roz mat karo. Jab chahiye tab recharge karo. Wiom — har ghar ka mobile recharge.' End-slate: 'Wiom. ₹23 wala recharge.'",
+    "visual_description": "Phone-on-table shot throughout. Mobile recharge UI visible. Single user (young man) — no household or family in frame. 4G logo prominently shown.",
+    "gold_overall_verdict": "KILL",
+    "gold_g1": "FAIL",
+    "gold_g2": "PASS",
+    "gold_notes": "Primary dangerous misread — concept positions Wiom AS a household 4G mobile recharge product ('har ghar ka mobile recharge', '4G net', ₹23-framed-as-mobile-top-up). G1 fails on no_frame_drift (mobile-data product) and ghar_anchor_present (no actual household, just rhetorical 'ghar'). Conceptual failure — no four-word fix. → KILL."
+  },
+  {
+    "concept_id": "KILL-02",
+    "format": "static_story",
+    "script_or_copy": "Headline (primary, large): 'Bharat ka sabse sasta WiFi.' Sub-headline: 'Wiom — speed bhi, price bhi.' Body: 'Sirf ₹23 se. Best cheap WiFi for home. Compare with Jio, Airtel, JioFiber. Wiom jeetega.' CTA: 'Book Now.' Footer: '4G speed. Cheapest in town.'",
+    "visual_description": "Static 9:16 image. Comparison-table graphic of Wiom vs Jio vs Airtel vs JioFiber, all on price-per-month basis. Speed claims in MBPS. Aggressive yellow/red 'CHEAPEST' badge.",
+    "gold_overall_verdict": "KILL",
+    "gold_g1": "FAIL",
+    "gold_g2": "FAIL",
+    "gold_notes": "G1 fails on no_frame_drift (cheap WiFi + broadband comparison). G2 fails on identity — 'sasta WiFi', 'best cheap WiFi', and Wiom defined as a WiFi product positioned against telco/broadband. Multiple structural issues, no quick fix — entire premise is wrong frame. → KILL."
+  },
+  {
+    "concept_id": "KILL-03",
+    "format": "video_20s",
+    "script_or_copy": "Split-screen throughout. Left side: 'JioFiber ₹699/month — 12 month commitment.' Right side: 'Wiom ₹565/month — recharge anytime.' Narrator: 'JioFiber se sasta. Same fiber speed. No commitment. Wiom — better broadband for your home.' End-slate: 'Wiom Fiber. Sasta. Tez. Bharat ka.'",
+    "visual_description": "Split-screen comparison. Fiber-optic cable visuals throughout. JioFiber logo and Wiom logo side by side. End-slate uses 'Wiom Fiber' branding.",
+    "gold_overall_verdict": "KILL",
+    "gold_g1": "FAIL",
+    "gold_g2": "FAIL",
+    "gold_notes": "G1 fails on no_frame_drift (frames Wiom as broadband / fiber). G2 fails on identity — 'Wiom Fiber', 'better broadband', explicit JioFiber comparison position Wiom as a broadband alternative. Invites comparison on speed/Mbps/monthly terms — exactly what Framework Gate 2 forbids. → KILL."
+  },
+  {
+    "concept_id": "KILL-04",
+    "format": "video_15s",
+    "script_or_copy": "Sleek graphics, energetic music. Narrator: 'Wiom — wonderful internet. Wiom — flexible. Wiom — affordable. Wiom — built for India.' Logo animations. 'Try Wiom today. Book now.' End-slate: 'Wiom. India's smartest internet.'",
+    "visual_description": "Animated logo-led film. No people. No homes. No real-world setting. Brand colours and motion graphics only.",
+    "gold_overall_verdict": "KILL",
+    "gold_g1": "FAIL",
+    "gold_g2": "PASS",
+    "gold_notes": "G1 fails on ghar_anchor_present (no household at all) and recharge_shape_clear (no recharge mechanic) and no_frame_drift (lands as generic internet brand). Brand-as-hero with no user reality — Phase-2 user-as-hero would also fail this, but G1 catches it now. No quick fix — concept has no user, no household, no recharge mechanic. → KILL."
+  }
+]
