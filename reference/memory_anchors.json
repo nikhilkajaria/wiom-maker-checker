@@ -17,7 +17,8 @@
       "phrase": "Chale aapke hisaab se",
       "abbreviation": null,
       "job": "Names how it feels (user agency)",
-      "verbatim_required": true
+      "verbatim_required": false,
+      "verbatim_note": "This is a CONCEPT to communicate, not a fixed phrase. The agency must convey the feeling of user agency and control — that the product works on the user's terms — but may express this in their own creative language. 'Chale aapke hisaab se' is the canonical articulation of the concept, not a mandatory verbatim line. Updated 2026-06-03 per Nikhil."
     }
   },
   "bridge_benefit": {
@@ -25,6 +26,7 @@
     "abbreviation": "JZUR",
     "job": "Benefit template that flexes per need-state. Sits between the rule (JDRUDN) and the emotional anchor (Chale aapke hisaab se) as the connective benefit line. NOT a fourth rung.",
     "verbatim_required": false,
+    "verbatim_note": "This is a CONCEPT to communicate, not a fixed phrase. The benefit — you only pay for what you need — must land, but the agency expresses it in their own creative language appropriate to the need-state. 'Jitni zarurat, utna recharge' is the canonical articulation; it does not need to appear verbatim.",
     "examples": [
       "exam ke 15 din ka recharge",
       "match wale din ka recharge",
@@ -64,7 +66,7 @@
     "warning": "Do not swap these. A cash-constraint creative using JZUR instead of JDRUDN undersells the operating logic that is the primary relief for that user."
   },
 
-  "underlying_principle": "Lock the constant (RWGKN, JDRUDN, Chale aapke hisaab se). Flex the contextual (benefit articulation per situation).",
+  "underlying_principle": "Lock the constant (RWGKN verbatim, JDRUDN verbatim). Communicate the concepts (JZUR benefit, user-agency emotion) in creative language appropriate to the context. The label and the rule are verbatim-required; the benefit and the feeling are concept-required.",
   "three_rung_guard": "JZUR is the connective benefit line between rule and emotion. It does NOT displace 'Chale aapke hisaab se' (which does a different job: how-it-feels / user agency). Three rungs, three jobs.",
   "source_note": "Brief §4 + SD/Shiva/Nikhil Slack alignment (2026-05). SD's water-bottle and movie-ticket analogies should be used verbatim with the team as clean teaching devices. The locked memory line remains 'Jitne din recharge, utne din net' (not Shiva's intermediate variant 'Jitne din recharge, utne din ghar ka net'); the ghar anchor lives in RWGKN, the rule does not need to re-carry it. See docs/OPEN_ITEMS.md."
 }

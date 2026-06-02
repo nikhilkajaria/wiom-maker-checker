@@ -27,7 +27,9 @@ Both halves of the category are co-equal:
 | Rule | **Jitne din recharge, utne din net** (JDRUDN) | States the operating logic (invariant — same for every user) |
 | Emotion | **Chale aapke hisaab se** | Names how it feels (user agency) |
 
-These must appear in their locked forms when used. They are category-memory assets, not campaign copy.
+**Verbatim-required (label + rule):** RWGKN and JDRUDN must appear in their exact locked forms. They are category-memory assets — the thing repeated until it lodges.
+
+**Concept-required (benefit + emotion):** JZUR and "Chale aapke hisaab se" are concepts that must be communicated, not fixed phrases. The agency expresses the benefit (you only pay for what you need) and the feeling (it works on your terms, you're in control) in creative language appropriate to the need-state and format. The canonical phrases are reference articulations, not mandatory lines.
 
 **Bridge benefit (flexible articulation, contextual per need-state):**
 - **Jitni zarurat, utna recharge** (JZUR) — explains *why the rule is useful*. JZUR is not a fourth rung; it sits between the rule and the emotional anchor as the connective benefit line. It is a benefit template that flexes per need-state:
