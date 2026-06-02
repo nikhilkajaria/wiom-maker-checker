@@ -118,5 +118,101 @@
     "gold_g1": "FAIL",
     "gold_g2": "PASS",
     "gold_notes": "G1 fails on ghar_anchor_present (no household at all) and recharge_shape_clear (no recharge mechanic) and no_frame_drift (lands as generic internet brand). Brand-as-hero with no user reality — Phase-2 user-as-hero would also fail this, but G1 catches it now. No quick fix — concept has no user, no household, no recharge mechanic. → KILL."
+  },
+  {
+    "concept_id": "PASS-05",
+    "gold_layer": "L3",
+    "gold_need_state": "TUF",
+    "format": "video_15s",
+    "script_or_copy": "Woman in kitchen, on phone: 'Phir data khatam ho gaya. Har hafte do baar top-up.' (Sighs, looks at her son on his phone, daughter studying.) Voiceover (warm, matter-of-fact): 'Teen mobile recharge — ek-ek dino mein. Isse achha — poore ghar ka net, sirf ek recharge mein.' Woman opens Wiom app: '14 din ka recharge.' Cut to full family: son streaming, daughter studying, mother on video call. End-slate (locked): 'Recharge-wala Ghar ka Net. Jitne din recharge, utne din net.'",
+    "visual_description": "Real kitchen — cramped, lived-in. Three family members visible simultaneously in the final frame, all on different devices. No aspirational framing — relief, not celebration. End-slate: dark background, white text, small Wiom logo.",
+    "gold_overall_verdict": "PASS",
+    "gold_g1": "PASS",
+    "gold_g2": "PASS",
+    "gold_notes": "L3 TUF (top-up fatigue) done correctly. Two-step structure: pain named first (multiple mobile top-ups), then ghar ka net as the relief. Ghar anchor: explicit ('poore ghar ka net') + whole-family visual. Recharge-shape: clear (one recharge for all). JDRUDN locked at end-slate. No kill-list words. Whole-family-on-one-recharge math (three mobile recharges to one ghar recharge) is the proof the Messaging System mandates for L3. Zero dangerous misread — the mobile top-up framing is the pain frame, immediately converted to ghar ka net."
+  },
+  {
+    "concept_id": "PASS-06",
+    "gold_layer": "L2",
+    "gold_need_state": "SDN-MULTI",
+    "format": "static_feed",
+    "script_or_copy": "Headline: 'Ghar ka net — jab chahiye utna recharge.' Sub-copy: 'Bache ke exam mein 20 din ka. Weekend coaching ke liye 2 din ka. Kuch nahi chahiye toh recharge hi nahi. Wiom — apne hisaab se.' Footer (locked): 'Recharge-wala Ghar ka Net. Jitne din recharge, utne din net.'",
+    "visual_description": "Static 1:1. White background, clean layout. Three panels showing three scenarios: (a) student at study desk, '20 din'; (b) weekend morning, child with notes, '2 din'; (c) empty sofa, no device, '0 din — recharge nahi.' Each panel has a duration tag. Wiom logo small, bottom centre.",
+    "gold_overall_verdict": "PASS",
+    "gold_g1": "PASS",
+    "gold_g2": "PASS",
+    "gold_notes": "SDN-MULTI (multi-occasion short-duration) done correctly. CRITICAL SEQUENCE: category ('Ghar ka net — jab chahiye utna recharge') appears FIRST in the headline, BEFORE occasions are named. Occasions (exam 20 din, coaching 2 din) are examples that prove the flexibility claim — they do not precede the category. This is the correct structure per May sprint craft rule: category-first, value-second, occasions as proof not as hook. Ghar anchor explicit in headline. JDRUDN in footer. No kill-list words. Compare against ITERATE-03 where mid-script occasion example appeared before category was resolved."
+  },
+  {
+    "concept_id": "PASS-07",
+    "gold_layer": "L2",
+    "gold_need_state": "MCR",
+    "format": "video_15s_vox_pop_live",
+    "script_or_copy": "Man (30s, casual, home clothes) speaks directly to camera, relaxed: 'Main soch raha tha ghar pe net lagwaunga — lekin poore mahine ka plan lena padega... har mahine. Bhai, main itna regular nahi hoon.' (Slight laugh.) 'Phir Wiom dekha. Jitne din chahiye utne din ka recharge. Wahi liya.' (Shrugs — obvious, easy decision.) End-slate (locked): 'Recharge-wala Ghar ka Net. Jitne din recharge, utne din net.'",
+    "visual_description": "Real home interior — sofa, bookshelf, natural light. Medium close-up, phone-camera framing. Speaker is unposed, not reciting — slight micro-expressions of recognition. No music. End-slate: dark background, white text, pink Wiom logo.",
+    "gold_overall_verdict": "PASS",
+    "gold_g1": "PASS",
+    "gold_g2": "PASS",
+    "gold_notes": "Vox-pop (live) format, L2 MCR. Credibility mechanism: real-person realness, unscripted feel. Ghar anchor: implicit but unmistakable ('ghar pe net', home visual, household context). Recharge-shape clear: 'jitne din chahiye utne din ka recharge' stated in user voice. JDRUDN verbatim at end-slate. No kill-list words. Category ('ghar pe net') lands before flexibility ('jitne din chahiye') — correct sequence. Clean PASS on all three G1 sub-checks."
+  },
+  {
+    "concept_id": "PASS-08",
+    "gold_layer": "L2",
+    "gold_need_state": "MCR",
+    "format": "video_15s_vox_pop_ai",
+    "script_or_copy": "AI-rendered character (male, 30s, realistic) speaks to camera: 'Ghar ke liye net chahiye tha. Monthly plan — yaar, mahine ka commitment. Main toh 15-20 din hi ghar pe rehta hoon.' (Leans slightly forward.) 'Wiom ka recharge-wala ghar ka net try kiya. Jitne din chahiye utne din liya. Kaam ka hai.' End-slate (locked): 'Recharge-wala Ghar ka Net. Jitne din recharge, utne din net.'",
+    "visual_description": "AI-generated home setting — recognisably real, slightly more uniform than a live shoot. Speaker is polished-but-not-aspirational. Medium close-up, static camera. End-slate identical to live vox-pop format.",
+    "gold_overall_verdict": "PASS",
+    "gold_g1": "PASS",
+    "gold_g2": "PASS",
+    "gold_notes": "AI vox-pop, L2 MCR. CRITICAL EVALUATION NOTE: Evaluate this concept as a PEER/NARRATOR CHARACTER, NOT as live-vox-pop-public credibility. AI render means credibility is sourced from peer-character believability, not from 'realness of a real public respondent' (see context_layer.md §12). Content verdict: G1 PASS — ghar anchor explicit ('ghar ke liye net'), RWGKN verbatim in script ('recharge-wala ghar ka net'), recharge-shape clear ('jitne din chahiye'), no frame drift. G2 PASS — no kill-list words. JDRUDN at end-slate. Watch in-market for: any synthetic-look comments that break peer-character believability, which is the AI vox-pop format's structural vulnerability. This is the golden-set analogue of JUN26-T-008 (F8)."
+  },
+  {
+    "concept_id": "ITERATE-05",
+    "gold_layer": "L2",
+    "gold_need_state": "VCF",
+    "format": "static_feed",
+    "script_or_copy": "Headline: 'Roz ki kamai, mahine ka bill nahi.' Body: 'Ghar ka net ab apni kamai ke hisaab se. Jab ho toh recharge — jab nahi ho toh band. Wiom.' CTA: 'Wiom try karo.' Footer: 'Wiom — Chale aapke hisaab se.'",
+    "visual_description": "Static 1:1. Auto-rickshaw driver visible through the frame — street setting, real-world. Tagline overlaid in clean white text on a darkened photo. Wiom logo bottom right, small.",
+    "gold_overall_verdict": "ITERATE",
+    "gold_g1": "FAIL",
+    "gold_g2": "PASS",
+    "gold_notes": "G1 FAIL on recharge_shape_clear: the recharge mechanic is described ('jab ho toh recharge, jab nahi ho toh band') and ghar anchor is present ('ghar ka net'), but the locked JDRUDN verbatim ('Jitne din recharge, utne din net') is entirely absent. The footer uses 'Chale aapke hisaab se' (the emotional anchor, correct) but omits the rule anchor. Without JDRUDN verbatim at least once, the locked operating rule — the category memory asset — does not land. G2 PASS: no kill-list words. No frame drift. FIX: replace or extend the footer to read 'Recharge-wala Ghar ka Net. Jitne din recharge, utne din net.' — one end-slate rewrite. This is the canonical ITERATE pattern: correct concept, single missing element. Note: this is the replacement genuine-ITERATE concept added to restore 4/4/4 composition after ITERATE-04 was revised to KILL (see OPEN_ITEMS.md item H)."
+  },
+  {
+    "concept_id": "ITERATE-06",
+    "gold_layer": "L3",
+    "gold_need_state": "HSE",
+    "format": "video_15s",
+    "script_or_copy": "Son (teen, frustrated): 'Papa, hotspot slow ho gaya. Ek phone se poora ghar nahi chalta.' Father nods. Voiceover: 'Wiom se recharge karo — ek recharge, poore ghar ka net.' Cut to family: son streaming, daughter on laptop, mother on phone. Father (approving): 'Ab sab ka kaam chalega.' End-slate (locked): 'Recharge-wala Ghar ka Net. Jitne din recharge, utne din net.'",
+    "visual_description": "Real living room. Hotspot signal icon visible on son phone screen. Family visible together in the final frame. End-slate: dark background, white text.",
+    "gold_overall_verdict": "ITERATE",
+    "gold_g1": "FAIL",
+    "gold_g2": "PASS",
+    "gold_notes": "L3 HSE (hotspot exhaustion). G1 FAIL on ghar_anchor_present (borderline): the voiceover line 'Wiom se recharge karo' appears BEFORE the ghar anchor is established in that frame. At the moment the voiceover fires, the viewer has seen a hotspot complaint — 'recharge karo' at that instant risks reading as mobile-data-product recharge. The ghar anchor ('poore ghar ka net') arrives in the same voiceover line but after 'recharge karo' has already been stated — L3 safety rule requires ghar anchor to be established BEFORE or SIMULTANEOUSLY with the recharge verb (context_layer.md §8 L3). The family cutaway and end-slate are clean. G2 PASS: no kill-list words. FIX: reorder voiceover to 'Poore ghar ka net — Wiom se. Ek recharge, sab ke liye.' — moves ghar anchor before the recharge instruction. Single-line rewrite. → ITERATE."
+  },
+  {
+    "concept_id": "ITERATE-07",
+    "gold_layer": "L2",
+    "gold_need_state": "MCR",
+    "format": "video_15s_vox_pop_live",
+    "script_or_copy": "Woman (40s, home clothes) to camera: 'Ghar ke liye net lena tha — poore mahine ka plan nahi lena tha, bas 15 din ke liye.' (Leans in.) 'Toh Wiom liya. Jitne din chahiye utne din ka — ghar ka net bhi ab apne hisaab se hota hai.' (Smiles.) Brand card appears: 'Wiom. Apne hisaab se.'",
+    "visual_description": "Home interior, natural light. Real-person, unscripted delivery. Brand card at the end: clean, minimal — brand name and tagline only. No locked JDRUDN on the card.",
+    "gold_overall_verdict": "ITERATE",
+    "gold_g1": "FAIL",
+    "gold_g2": "PASS",
+    "gold_notes": "Vox-pop (live), L2 MCR. Hook is clean (monthly commitment rejected), converts correctly ('ghar ka net bhi ab apne hisaab se'), ghar anchor present throughout, no kill-list words. G1 FAIL on recharge_shape_clear: the locked JDRUDN ('Jitne din recharge, utne din net') is absent. Brand card reads 'Wiom. Apne hisaab se' — carries the emotional anchor but NOT the rule anchor. Without JDRUDN verbatim, the locked operating rule (the category memory asset) does not land. FIX: replace brand card text with full locked end-slate: 'Recharge-wala Ghar ka Net. Jitne din recharge, utne din net.' Single-line rewrite. → ITERATE. This is the vox-pop-format analogue of ITERATE-05 (static) — both fail solely on missing JDRUDN, which is the most common fixable ITERATE pattern across formats."
+  },
+  {
+    "concept_id": "KILL-05",
+    "gold_layer": "L3",
+    "gold_need_state": "TUF",
+    "format": "static_feed",
+    "script_or_copy": "Headline: 'Mobile data khatam? Ghar ke liye bhi recharge karo!' Body: 'Wiom — ghar bhar ka recharge. Roz nahi chahiye? Jab chahiye tab recharge. Rs.23 se shuru karo.' CTA: 'Wiom app se recharge karo.' Footer: 'Wiom. Jab chahiye, tab recharge.'",
+    "visual_description": "Static 9:16. Mobile phone screen prominent — mobile recharge UI visible. Single user (young man) on phone. No household or family visible. Bright, app-like design. The word 'recharge' appears five times across the visual.",
+    "gold_overall_verdict": "KILL",
+    "gold_g1": "FAIL",
+    "gold_g2": "PASS",
+    "gold_notes": "PRIMARY DANGEROUS MISREAD. G1 FAIL on ghar_anchor_present AND no_frame_drift. 'Recharge' is the head noun throughout: 'ghar bhar ka recharge' is a rhetorical phrase where the head noun is still recharge, not ghar ka net. No household or family is visible — just a mobile phone screen. The footer 'Jab chahiye, tab recharge' has no ghar anchor. The entire creative reads as a mobile-data-product top-up — the primary dangerous misread (context_layer.md §3). L3 safety rule violated: 'net' must be the destination noun; never 'recharge' alone as head (context_layer.md §8 L3). G2 PASS: no kill-list words. KILL: conceptual failure. No four-word add can fix a creative where the entire premise positions recharge (not ghar ka net) as the product, and no household appears anywhere. Compare to PASS-05 (L3 TUF PASS) where the same pain frame is immediately converted to 'poore ghar ka net' with explicit whole-family anchoring."
   }
 ]

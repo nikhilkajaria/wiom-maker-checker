@@ -1,5 +1,9 @@
 # Open Items — Phase 1 build
 
+**Last updated: 2026-06-03.** Items A–I were from the original Phase 1 build. Items J–N added after Taxonomy v1.3 and June-1 wave evaluation.
+
+---
+
 Tracked deviations and unresolved questions surfaced while building Phase 1. Update as items close.
 
 ## A. JZUR phrasing — RESOLVED, canonical with SD's rule-vs-benefit framing
@@ -95,7 +99,7 @@ Tracked deviations and unresolved questions surfaced while building Phase 1. Upd
 
 ---
 
-## H. Golden-set calibration — ITERATE-04 revised to KILL after first agreement run
+## H. Golden-set calibration — ITERATE-04 revised to KILL after first agreement run — PARTIALLY RESOLVED
 
 **Item:** On the first run (2026-05-22), both independent runs of the gate-pass checker classified ITERATE-04 as KILL, with consistent and rigorous reasoning: the concept has no ghar anchor, no RWGKN conversion in the body, and no JDRUDN — three independent structural gaps that no four-word add or single-line rewrite can fix. The gold label was originally ITERATE (G2 PASS) on the rationale that "sasta WiFi" was a rhetorical-question capture-bridge.
 
@@ -133,3 +137,94 @@ After applying the item-H gold revision, ground-truth accuracy is effectively 10
 
 **Action items:**
 - If SDK version drift breaks the build, update the pin and adjust the call shape in `layers/gate_checker/checker.py`.
+
+---
+
+## J. Audience layers added to context_layer.md — RESOLVED (2026-06-03)
+
+**Item:** The L1/L2/L3 audience-layer framework (Messaging System v1.3) was entirely absent from the context layer. The checker evaluated G1/G2 with no awareness of which layer a creative targets — meaning it could not apply layer-specific must-not-do rules, L3's "नेट as destination noun" rule, or detect L1 contamination risk.
+
+**Resolution (2026-06-03):**
+- `reference/context_layer.md` §8 added: full L1/L2/L3 layer definitions, objectives, bridges, must-not lists, proof structures, contamination risk, CTA intensity.
+- `reference/context_layer.md` §9–12 added: craft rules (May sprint), JDRUDN/JZUR cash-vs-need routing, script-mixing convention, AI vox-pop credibility caveat.
+- `reference/audience_layers.json` created: machine-readable layer definitions for Phase 2 script-maker.
+- `reference/need_states.json` created: full need-state vocabulary including SDN-MULTI.
+- `reference/memory_anchors.json` updated: cash-vs-need routing rule added.
+- `Wiom_Messaging_System_v1.3.docx` added to `docs/source_docs/`.
+
+**Action items remaining:**
+- Add audience-layer checking to G1/G2 gate logic (Phase 2) — the checker currently evaluates gates without asking "which layer is this creative targeting?" A Phase 2 extension would require the concept brief to name its layer and the checker to apply layer-specific rules conditionally.
+- **Owner:** Nikhil.
+
+---
+
+## K. L3 doctrine — in-context rule application — RESOLVED (2026-06-03)
+
+**Item:** The "नेट must be the destination noun" rule for L3 was missing from the context layer, and when added must be framed as contextual (prior line/visual grounds the destination), not per-line mechanical. Evidence: S2 Variant was KILLed by the original checker using line-mechanical application; user override confirmed the creative passed because the prior PT line + lockup grounded the destination.
+
+**Resolution (2026-06-03):**
+- `reference/context_layer.md` §8 (L3 section) includes the rule with explicit IN-CONTEXT application language.
+- `reference/audience_layers.json` L3 section includes `l3_critical_note` with override history.
+
+**Action items remaining:**
+- When Phase 2 adds L3-layer gate checking, implement the contextual test: "is there a prior line, visual, or lockup anywhere in the creative that grounds the घर-का-नेट destination?" — not "does this specific line use रिचार्ज as head noun?"
+- **Owner:** Nikhil (Phase 2).
+
+---
+
+## L. SDN-MULTI added to vocabulary — RESOLVED (2026-06-03)
+
+**Item:** SDN-MULTI (multi-occasion framing — multiple SDN sub-cases stacked in one creative) was missing from all reference files. Added to taxonomy v1.3 for F7 (script stacks cricket + exam).
+
+**Resolution (2026-06-03):**
+- `reference/need_states.json` SDN sub-cases includes SDN-MULTI with covariance flag.
+- `reference/context_layer.md` mentions SDN-MULTI in §8 implicitly via the need_states reference.
+
+**Covariance flag:** SDN-MULTI creative cannot be cleanly compared against a single-occasion creative without controlling for occasion-cardinality. Test T-PR-02 is flagged as 3-variable co-variance for this reason.
+
+---
+
+## M. Golden-set gaps — OPEN
+
+**Item:** Multiple gaps in the golden set remain unaddressed:
+1. No replacement genuine-ITERATE concept (after ITERATE-04 revised to KILL in item H).
+2. Only 12 of target 20 concepts — 8 more needed, especially at ITERATE/KILL boundary.
+3. No L3-layer concepts — all 12 are L1/L2-adjacent.
+4. No SDN-MULTI concept.
+5. No vox-pop format concepts.
+
+**Action items:**
+- Design and add 8 new golden concepts. Priority: 2 genuine-ITERATE (boundary cases), 2 L3 (TUF + HSE), 1 SDN-MULTI, 1 vox-pop PASS, 1 vox-pop ITERATE, 1 AI vox-pop to test the AI-credibility caveat.
+- **Owner:** Nikhil.
+
+---
+
+## N. Real concept JSONs — stale / incomplete — OPEN
+
+**Item:** `tests/real_concepts/` contains S1–S5, S7, S8 statics but:
+1. S6 (SDN-WKC) is missing.
+2. No film JSONs (F1–F12).
+3. Naming convention mismatch: existing JSONs use `concept_id` like `JUN26-T-013-v1-produced`, not the canonical `JUN26-T-013`.
+4. S2 Variant verdict in any related file would still say KILL — needs to reflect CRAFT REVIEW PASS override (Taxonomy v1.3).
+5. F10 verdict if added would say INVALID — needs to reflect PENDING + override (Taxonomy v1.3).
+
+**Action items:**
+- Add S6 JSON.
+- Add F1–F3, F8 film JSONs (these are Live in Meta; good to have in real_concepts for regression testing).
+- Fix concept_id naming to match taxonomy primary key.
+- Add a `verdict_overrides` field to the S2 Variant JSON noting the doctrine change.
+- **Owner:** Nikhil.
+
+---
+
+## O. EVALUATION doc stale — OPEN
+
+**Item:** `docs/EVALUATION_input_sheet_and_june1_wave.md` carries verdicts that are now outdated:
+- S2 Variant: originally KILL, now CRAFT REVIEW PASS (Taxonomy v1.3, June 2026).
+- F10: originally INVALID, now PENDING with override (Taxonomy v1.3, June 2026).
+- T-PR-02: originally flagged as "compound contamination"; now upgraded to 3-VARIABLE CO-VARIANCE.
+
+**Action items:**
+- Update relevant sections of the EVALUATION doc to reflect the overrides.
+- Add a "Revision trail" section at the top of the doc noting the update date and nature of changes.
+- **Owner:** Nikhil.

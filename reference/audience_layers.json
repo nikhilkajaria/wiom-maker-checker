@@ -1,0 +1,104 @@
+{
+  "_source": "Messaging System v1.3 (Karishni, Wiom) + Taxonomy v1.3 audience-layer review",
+  "_note": "Three layers, three jobs. Every creative targets exactly one layer. Locked.",
+
+  "layers": {
+    "L1": {
+      "name": "Ready buyer",
+      "one_liner": "I want home WiFi now.",
+      "description": "Has decided to buy home internet and is choosing a provider this week. Active, comparison-mode, incumbent-trained (Jio/Airtel/broadband schema).",
+      "objective": "Bridge from WiFi-comparison to ghar ka net. Land that Wiom is a different category, not just a different provider.",
+      "starting_frame": "WiFi, plan, monthly, speed, broadband. Provider-comparison mode.",
+      "differentiator": "FLEXIBILITY — pay only for days you use. Granularity (1/7/14/28 din) is the proof.",
+      "bridge": "'Which WiFi brand do I pick' → 'this is a different way to have home internet' → 'flexibility is why it's worth choosing.'",
+      "must_not": [
+        "Lead with WiFi as standalone noun without RWGKN destination",
+        "Compare to Jio / Airtel / ACT by name",
+        "Add occasion examples before category is anchored (Static 02 = 21% confusion)",
+        "Promise 'cheaper' — commoditises into broadband",
+        "Cram category and flexibility into one beat — one job per creative"
+      ],
+      "proof_structures": [
+        "Plain category statement first (Static 01 = 60% Net id, 0% confusion)",
+        "Show granularity directly — 1 din, 7 din, 14 din, 28 din",
+        "Whole-home / family scene over device shots",
+        "Resist additions — every feature or comparison costs category clarity"
+      ],
+      "contamination_risk": "HIGHEST — burst-then-churn signal. Scale only on recharge quality; cohort-fail overrides comprehension-pass.",
+      "cta_intensity": "Firmest — Sign Up / Book"
+    },
+
+    "L2": {
+      "name": "Blocked buyer",
+      "one_liner": "I want home internet but its current shape doesn't fit my life.",
+      "description": "Would buy if the commitment shape were different. Natively fit for Wiom — the recharge model IS their answer.",
+      "objective": "Land that home internet can be recharge-shaped, and Wiom IS that.",
+      "starting_frame": "Monthly bill rejected, 'kab kab chalega', variable income, 'lock-in'. Not comparing providers — rejecting the category shape.",
+      "differentiator": "COMMITMENT-SHAPE — pay-as-you-go, no monthly lock-in.",
+      "bridge": "'Home internet is too rigid for my life' → 'home internet can be recharge-shaped' → 'Wiom IS that.'",
+      "must_not": [
+        "Sound like 'cheaper broadband' — L2 users sense the trap and bounce",
+        "Hide the recharge model — the recharge-shape IS the value prop",
+        "Add occasion examples before the structure lands",
+        "Position as a downgrade ('if you can't afford broadband')",
+        "Bury the granularity (1/7/14/28 options are what unblocks them)"
+      ],
+      "proof_structures": [
+        "Lead with commitment-shape contrast: 'Monthly bill nahi, recharge'",
+        "Show granularity as choices (not a price table)",
+        "Household / income context as agency, not constraint",
+        "Family setting that signals 'built for people whose lives look like yours'"
+      ],
+      "contamination_risk": "LOW — expected highest coverage-continuity (natively fit)",
+      "cta_intensity": "Firm-ish — Learn More / Get Wiom"
+    },
+
+    "L3": {
+      "name": "Workaround pain",
+      "one_liner": "Mobile data for the house is painful.",
+      "description": "Feels the pain but hasn't categorised home internet as the solution. Conversion from mobile-data-pain into home-internet consideration.",
+      "objective": "Convert mobile-data pain into ghar ka net consideration.",
+      "starting_frame": "'Data nikal jata hai', hotspot, 'data finished'. Recharge = mobile. Not thinking about home internet at all.",
+      "differentiator": "WHOLE-FAMILY-ON-ONE-RECHARGE — 3–4 mobile recharges/week = 1 ghar recharge that serves everyone.",
+      "bridge": "Pain-first (surface the problem) → ghar ka net as the answer that fits. Two steps: 'this pain has a solution' → 'the solution is ghar ka net — recharge-shaped too.'",
+      "must_not": [
+        "Lead with category before pain — pain is the door for L3",
+        "Shame the current behaviour — mobile data has been their solution; respect before replacing",
+        "Make it aspirational — 'imagine your family with home internet' is out of scope (Bob's territory)",
+        "Compete with mobile providers — frame as 'next level,' not 'alternative'",
+        "Lead with price competition",
+        "Let 'recharge' float as head noun without ghar anchor — CRITICAL RULE: 'नेट' must be the destination noun. NEVER 'रिचार्ज' alone as head. Applied IN-CONTEXT (a prior line/visual/lockup that grounds घर-का-नेट satisfies the rule). NOT applied per-line mechanically."
+      ],
+      "proof_structures": [
+        "Pain-first opening: trigger recognition before delivering the answer",
+        "Math demonstration: 4 mobile recharges/week = 1 ghar recharge for everyone",
+        "Whole-family-using-internet-without-fighting visual — relief, not aspiration",
+        "Two-step framing: name the pain, then introduce the answer"
+      ],
+      "contamination_risk": "MODERATE — primary misread risk is mobile-data-product. Ghar anchor is mandatory. L3 creatives typically have slower payback; may need assisted conversion.",
+      "cta_intensity": "Softest — nurture / Dekho",
+
+      "l3_critical_note": {
+        "rule": "नेट must be the destination noun. Never रिचार्ज alone as head.",
+        "application": "IN-CONTEXT, not per-line. A prior line, visual, or end-slate lockup that establishes the घर-का-नेट destination satisfies the rule. A subsequent line can lead with रिचार्ज if the destination has been grounded. A creative that has NO घर anchor anywhere fails this rule.",
+        "source": "Messaging System v1.3 §6C + Taxonomy v1.3 audience-layer review + S2 Variant override (June 2026)",
+        "override_history": "Original KILL verdict on S2 Variant applied this rule per-line (mechanically) and was overturned — prior PT line + lockup grounded the destination."
+      }
+    }
+  },
+
+  "cross_layer_rules": {
+    "universal_load": "The word 'recharge' arrives pre-loaded with the mobile-data schema. Every creative across all three layers must anchor 'recharge' to ghar ka net.",
+    "one_job_per_creative": "Land one thing cleanly. Category OR flexibility OR proof-of-commitment-shape — one per creative.",
+    "category_first_value_second": "Category must land before value proposition. When category lands, flexibility transmits. Reverse order fails.",
+    "occasion_examples": "Do NOT add use-case occasions before category is resolved. Occasions add cognitive load, not clarity. Exception: L2 occasions permitted if and only if category anchors first.",
+    "zero_confusion_bar": "Static 01 and Static 03 both hit 0% confusion. That is the bar — not 'under 20%'."
+  },
+
+  "comprehension_test_pass_bar": {
+    "category_identification_rate": "≥60% (matches Static 01)",
+    "differentiator_recall_rate": "≥70%",
+    "confusion_rate": "0%",
+    "source": "Messaging System v1.3 §8. Mandatory pre-launch. Non-negotiable after setting in the brief."
+  }
+}

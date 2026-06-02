@@ -1,0 +1,132 @@
+{
+  "_source": "Wiom Creative Taxonomy v1.3 + Messaging System v1.3",
+  "_note": "Need-states are assigned to audience layers (not interchangeable). SDN sub-cases are children of SDN parent.",
+
+  "need_states": [
+    {
+      "code": "MCR",
+      "name": "Monthly-commitment rejection",
+      "description": "User wants home internet but rejects the monthly commitment shape of broadband. Blocked by the lock-in, not by lack of desire.",
+      "typical_layer": "L2",
+      "constraint_type": "need",
+      "anchor_to_use": "JZUR",
+      "misread_risk": "Low — closest native fit to RWGKN"
+    },
+    {
+      "code": "VCF",
+      "name": "Variable / irregular cashflow",
+      "description": "Daily earner or irregular-income household. Can't commit to a fixed monthly outlay. Income varies day to day.",
+      "typical_layer": "L2",
+      "constraint_type": "cash",
+      "anchor_to_use": "JDRUDN",
+      "misread_risk": "Low — cash constraint is addressed cleanly by the recharge-rule"
+    },
+    {
+      "code": "SAL",
+      "name": "Salary delay",
+      "description": "Predictable monthly cash gap — salary comes mid-month or is delayed. User knows money is coming but can't commit now.",
+      "typical_layer": "L2",
+      "constraint_type": "cash",
+      "anchor_to_use": "JDRUDN",
+      "misread_risk": "Low"
+    },
+    {
+      "code": "SDN",
+      "name": "Short-duration need (PARENT)",
+      "description": "Brief, defined window of need. User only needs home internet for a specific period, not continuously.",
+      "typical_layer": "L2",
+      "constraint_type": "need",
+      "anchor_to_use": "JZUR",
+      "misread_risk": "Low — but occasion-before-category craft rule applies (see sub-cases)",
+      "sub_cases": [
+        {
+          "code": "SDN-EXM",
+          "name": "Exam window",
+          "description": "One-off study block (15–20 days typical). Student needs home net for exam prep period only."
+        },
+        {
+          "code": "SDN-CRK",
+          "name": "Cricket / IPL match window",
+          "description": "Event-driven, short burst. User wants home net for specific match days only. Urgency flavour."
+        },
+        {
+          "code": "SDN-WKC",
+          "name": "Weekend coaching",
+          "description": "Recurring weekly pattern — child has coaching classes on weekends only. Needs home net 2 days/week."
+        },
+        {
+          "code": "SDN-WFH",
+          "name": "Work-from-home (part-week)",
+          "description": "Hybrid work pattern — WFH 2–3 days per week; in office rest. Needs net only on WFH days."
+        },
+        {
+          "code": "SDN-CLS",
+          "name": "Online classes",
+          "description": "Recurring schedule — classes on specific days of week."
+        },
+        {
+          "code": "SDN-FST",
+          "name": "Festival",
+          "description": "Event-driven — family gathers, net needed for a few days around a festival. Urgency flavour."
+        },
+        {
+          "code": "SDN-OTT",
+          "name": "Sunday movie / OTT",
+          "description": "Weekend OTT viewing pattern — needs net on weekends only."
+        },
+        {
+          "code": "SDN-MULTI",
+          "name": "Multi-occasion (multiple SDN sub-cases stacked)",
+          "description": "Creative argues 'works for several short-duration moments' by stacking multiple occasions (e.g., exam + cricket). Tests multi-occasion framing as the variable — NOT a specific occasion. Added v1.3 for F7 (script stacks cricket + exam). CO-VARIANCE WARNING: A SDN-MULTI creative cannot be cleanly compared against a single-occasion creative without controlling for occasion-cardinality — they co-vary on sub-case AND cardinality, not just on protagonist or format.",
+          "added_version": "v1.3",
+          "covariance_flag": true
+        }
+      ]
+    },
+    {
+      "code": "TRV",
+      "name": "Travel / return",
+      "description": "User is away from home for a period. Doesn't need (or pay for) home net while away; wants to recharge when back.",
+      "typical_layer": "L2",
+      "constraint_type": "need",
+      "anchor_to_use": "JZUR",
+      "misread_risk": "Low"
+    },
+    {
+      "code": "TUF",
+      "name": "Top-up fatigue",
+      "description": "Mobile data keeps running out. User is repeatedly buying mobile top-ups for the whole household. The accumulating cost and friction is the pain.",
+      "typical_layer": "L3",
+      "constraint_type": "pain",
+      "anchor_to_use": "JZUR",
+      "misread_risk": "HIGH — highest misread adjacency of all need-states. Category bridge = mobile-data (MD). Opening on 'data khatam' risks the creative reading as a mobile-data product. Ghar anchor is MANDATORY to prevent.",
+      "category_bridge_code": "MD"
+    },
+    {
+      "code": "HSE",
+      "name": "Hotspot exhaustion",
+      "description": "User is running a hotspot from one phone for the whole household. The single-device, single-SIM constraint is the pain — battery, speed, everyone fighting for one connection.",
+      "typical_layer": "L3",
+      "constraint_type": "pain",
+      "anchor_to_use": "JZUR",
+      "misread_risk": "Medium — category bridge = hotspot jugaad (HJ). Less misread risk than TUF but ghar anchor still mandatory.",
+      "category_bridge_code": "HJ"
+    },
+    {
+      "code": "FAM",
+      "name": "Family simultaneity",
+      "description": "Multiple family members need internet at the same time — different devices, different rooms, different needs. Concurrency is the pain, not just volume.",
+      "typical_layer": "L3",
+      "constraint_type": "pain",
+      "anchor_to_use": "JZUR",
+      "misread_risk": "Low-medium",
+      "note": "F10 (Obvious AI testimonial) uses summer/school seasonal framing as a TEMPORAL CONTEXT HOOK for when family-simultaneity peaks — this is NOT a separate short-duration need-state. Seasonal hooks marking peak-pain-period are permitted without co-varying the need-state."
+    }
+  ],
+
+  "layer_to_need_state_mapping": {
+    "L1": ["(category-led, no specific need-state — user is in choosing-a-provider mode)"],
+    "L2": ["MCR", "VCF", "SAL", "SDN (all sub-cases)", "TRV"],
+    "L3": ["TUF", "HSE", "FAM"]
+  }
+}

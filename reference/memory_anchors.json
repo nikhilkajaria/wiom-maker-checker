@@ -49,6 +49,21 @@
       "both_are_needed": "Rule alone leaves no felt benefit. Benefit alone leaves no understanding of how. Creatives carry both: the locked rule as the memory anchor, the benefit articulation in the body."
     }
   },
+  "cash_vs_need_routing": {
+    "rule": "The correct anchor (JDRUDN vs JZUR) depends on the type of constraint the creative addresses.",
+    "cash_constraint_hook": {
+      "use": "JDRUDN",
+      "need_states": ["VCF", "SAL"],
+      "rationale": "Cash-constraint users need the RULE — they want to know they only pay when they have money. The operating logic is the relief."
+    },
+    "need_constraint_hook": {
+      "use": "JZUR",
+      "need_states": ["MCR", "SDN", "TRV", "TUF", "HSE", "FAM"],
+      "rationale": "Need-constraint users need the BENEFIT — flexibility expressed as 'exactly as much as you need.'"
+    },
+    "warning": "Do not swap these. A cash-constraint creative using JZUR instead of JDRUDN undersells the operating logic that is the primary relief for that user."
+  },
+
   "underlying_principle": "Lock the constant (RWGKN, JDRUDN, Chale aapke hisaab se). Flex the contextual (benefit articulation per situation).",
   "three_rung_guard": "JZUR is the connective benefit line between rule and emotion. It does NOT displace 'Chale aapke hisaab se' (which does a different job: how-it-feels / user agency). Three rungs, three jobs.",
   "source_note": "Brief §4 + SD/Shiva/Nikhil Slack alignment (2026-05). SD's water-bottle and movie-ticket analogies should be used verbatim with the team as clean teaching devices. The locked memory line remains 'Jitne din recharge, utne din net' (not Shiva's intermediate variant 'Jitne din recharge, utne din ghar ka net'); the ghar anchor lives in RWGKN, the rule does not need to re-carry it. See docs/OPEN_ITEMS.md."
