@@ -80,6 +80,13 @@
           "description": "Creative argues 'works for several short-duration moments' by stacking multiple occasions (e.g., exam + cricket). Tests multi-occasion framing as the variable — NOT a specific occasion. Added v1.3 for F7 (script stacks cricket + exam). CO-VARIANCE WARNING: A SDN-MULTI creative cannot be cleanly compared against a single-occasion creative without controlling for occasion-cardinality — they co-vary on sub-case AND cardinality, not just on protagonist or format.",
           "added_version": "v1.3",
           "covariance_flag": true
+        },
+        {
+          "code": "SDN-VAR",
+          "name": "Variable / unpredictable household duration",
+          "description": "Household internet need fluctuates unpredictably - a day or two sometimes, a week other times. No fixed occasion; the duration itself is the variable. The earner may be out (e.g., shopkeeper) while the household uses net at home. Bounded by days, not concurrent users - deliberately distinct from FAM (family simultaneity). The third short-duration shape alongside SDN-EXM (one-off block) and SDN-WKC (recurring).",
+          "added_version": "v1.3",
+          "added_note": "Added 2026-06-03 for F12 (JUN26-T-012), within the v1.3 line. Was mis-tagged SDN-WFH; corrected per Unfiltrr brief (F12 = variable household need, delta vs F4)."
         }
       ]
     },
