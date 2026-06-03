@@ -1,0 +1,13 @@
+{
+  "_note": "Generated mirror of the live Google Sheet. DO NOT hand-edit; edit the Sheet and re-run scripts/export_registry_to_json.py.",
+  "source_spreadsheet_id": "1ay8EBJ3fRjpx0U80ErEqMwJGXlY0ynh_FzTfGcTGXaA",
+  "source_title": "June 1 - Performance Creative Repository",
+  "exported_from_xlsx": "June 1 - Performance Creative Repository_c6dfb43f.xlsx",
+  "export_timestamp": "2026-06-03T21:04:48",
+  "tab_record_counts": {
+    "0_Brief_Registry": 2,
+    "1_Creative_Registry": 22,
+    "2_Experiment_Registry": 10,
+    "3_Status_Tracker": 22
+  }
+}

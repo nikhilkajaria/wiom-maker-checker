@@ -1,0 +1,38 @@
+[
+  {
+    "brief_id": "BRIEF-UNFLT-20260525",
+    "wave": "2026-06-26",
+    "brief_name": "Unfiltrr — June 1 Activation Wave brief",
+    "objective": "Brief live vox pops + green-screen comparison films + statics for the JUN26 wave covering need-state, protagonist, format, and SDN sub-case variables.",
+    "creative_plan_summary": "3 live vox pops + 6 GS comparison films + 10 statics (incl. 2 variants) = 19 concepts",
+    "variables_tested": "Need-state, Protagonist, Format (CMPF vs STA), SDN sub-case, Wording (S2 variant), Occasion-cardinality (SDN-MULTI)",
+    "audience_layers_covered": "L2, L3",
+    "concepts_count": "19",
+    "tests_count": "8",
+    "brief_author": "Nikhil Kajaria",
+    "brief_date": "2026-05-25",
+    "brief_drive_link": "https://docs.google.com/document/d/11ed0W22m8oY1ssDoBZ5ciZbhaAKPyKUzQ__chKazYDE/edit",
+    "supporting_docs": "Taxonomy v1.3 | Messaging System v1.3 | Contrast Doctrine v2.1 | Performance Creative Framework v0.9",
+    "status": "Active",
+    "wave_summary_notes": "",
+    "next_wave_implications": ""
+  },
+  {
+    "brief_id": "BRIEF-OBVAI-20260525",
+    "wave": "2026-06-26",
+    "brief_name": "Obvious AI — 3 Films brief",
+    "objective": "Brief 3 AI-rendered films covering: F8 AI mirror of F1 (vox-pop production-method test), F9 travel AI testimonial, F10 family-simultaneity AI testimonial.",
+    "creative_plan_summary": "1 AI vox-pop mirror + 2 AI testimonials = 3 concepts",
+    "variables_tested": "Production method (AI vs LIV via F1×F8), Format (TST) under AI, Layer (L2 TRV vs L3 FAM)",
+    "audience_layers_covered": "L2, L3",
+    "concepts_count": "3",
+    "tests_count": "2",
+    "brief_author": "Nikhil Kajaria",
+    "brief_date": "2026-05-25",
+    "brief_drive_link": "https://docs.google.com/document/d/1nJIQADN6LjvBqX1130yUmVy5rBeQN6uTSc84tg5rLBY/edit",
+    "supporting_docs": "Taxonomy v1.3 | Messaging System v1.3 | Contrast Doctrine v2.1 | Performance Creative Framework v0.9",
+    "status": "Active",
+    "wave_summary_notes": "",
+    "next_wave_implications": ""
+  }
+]
