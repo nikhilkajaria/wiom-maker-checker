@@ -1,0 +1,59 @@
+# Wiom Maker-Checker — Gate-Check workflow
+#
+# STATUS: SWITCHED OFF (template). This file is NOT in .github/workflows/, so GitHub does
+# not run it. It documents the automation and is ready to drop into place.
+#
+# ---------------------------------------------------------------------------------------
+# HOW TO ARM IT (one-time, after Nikhil chooses "Option A — Auto-on-PR" in the agents README)
+#   0. Copy this file to `.github/workflows/gate-check.yml` (needs the `workflow` token
+#      scope; the repo admin can do this from the GitHub web UI or a scoped local push).
+#   1. Repo admin adds Shiva's ANTHROPIC_API_KEY as a GitHub secret:
+#      Settings -> Secrets and variables -> Actions -> New repository secret
+#         Name:  ANTHROPIC_API_KEY
+#   2. Replace the `on:` block below (currently manual-only + guarded) with the PR trigger:
+#         on:
+#           pull_request:
+#             paths: [ "creative-library/**", "briefs/**" ]
+#   3. Remove the `if: false` guard on the job.
+#   4. (Optional) add a Slack step on failure using a SLACK_WEBHOOK_URL secret.
+# ---------------------------------------------------------------------------------------
+
+name: gate-check
+
+# OFF: manual-only trigger, and the job is guarded with `if: false` so nothing runs.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  gate-check:
+    if: false   # <-- REMOVE THIS LINE TO ARM. Until then the job is skipped.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run gate check on changed concepts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          # Placeholder: when armed, iterate changed concept files and run the checker,
+          # then post the PASS / ITERATE / KILL verdict back onto the PR.
+          echo "gate-check is not armed yet — see this file's header to enable."
+
+      # - name: Notify Shiva on failure (Slack)
+      #   if: failure()
+      #   env:
+      #     SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+      #   run: curl -X POST -H 'Content-type: application/json'
+      #        --data '{"text":"Gate check failed — needs Shiva review: '"$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/pull/$PR"'"}'
+      #        "$SLACK_WEBHOOK_URL"
