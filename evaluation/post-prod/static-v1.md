@@ -10,6 +10,11 @@ Runs on the **rendered static art** (the delivered 1:1 image), **before spend**.
 **gate first, disqualifiers second, score third.** A static that fails an earlier stage never
 reaches a later one.
 
+> **This is the single, sufficient gate for a static.** Statics do **not** need a separate
+> pre-production G1/G2 concept-gate — video does (because video production is expensive and worth
+> protecting before you shoot). A static's art *is* the concept, so it's checked **once**, here,
+> on the rendered art. See the two-track model in [`/evaluation/README.md`](../README.md).
+
 ---
 
 ## STAGE 0 — Gate pass (G1 + G2) on the rendered static  ← the encapsulation
@@ -77,14 +82,15 @@ Weighted score from the source framework (Section C):
 
 ---
 
-## Verdict
+## Verdict (threshold ratified by Shiva)
 
-- **PASS** — clears Stage 0 + no Section A breach + score ≥ threshold. → goes live.
-- **ITERATE** — a fixable Stage 0 / Section A issue, or a sub-threshold score. → fix and re-check.
-- **KILL** — wrong frame or unfixable contamination. → logged, not nurtured. **Default bias = KILL.**
+A static is first gated (Stage 0 + Section A), then the **score decides scale-worthiness**:
 
-## ⏳ Open item for Shiva to ratify
+- **SCALE** — gate-clear **AND score 8.0 or higher.** → runs in the Scale campaign.
+- **ITERATE / Learning-only** — gate-clear but **score below 8.0.** → improve before scaling, or
+  run only in the **Learning campaign** to gather reads; never put a sub-8.0 static into Scale.
+- **KILL** — fails Stage 0 (G1/G2) **or** any Section-A disqualifier — wrong frame / contamination.
+  Logged, not nurtured. **Default bias = KILL.**
 
-The source framework gives weights but **no numeric pass bar.** The June L1 wave scored **6.3–8.2**
-(scaled the ≥~7.0 set). **Shiva to set the threshold** (e.g. "≥7.0 to scale, 5.5–6.9 iterate, <5.5
-kill") — left as TBD until ratified.
+> Bar set at **≥ 8.0 to scale** (June L1 wave: the 8.0–8.2 assets — C-038, T-045, T-046 — were the
+> scale set). Adjust here if the bar should move.
