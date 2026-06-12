@@ -22,9 +22,13 @@ code that executes them is shared.
 2. **G2 agent** — Contamination / Banned Words (layer-aware). Source: `g1g2-logic/v1.md` §Gate 2.
 3. **Post-prod agent** — runs on the *finished* asset, not the concept text. **v1.0 below.**
 
-### Post-Production Check — v1.0
+> **Static vs video:** the v1.0 below is video-oriented. The **static** post-prod check —
+> which puts a G1/G2 gate first, then Section-A disqualifiers, then a 6-dimension score — lives
+> in [`/evaluation/post-prod/static-v1.md`](../post-prod/static-v1.md).
 
-Runs on the rendered creative (video / static). Three lenses:
+### Post-Production Check — v1.0 (video)
+
+Runs on the rendered creative (video). Three lenses:
 
 - **P1 — Multimodal re-run.** Re-run G1 + G2 on the finished asset across **all modalities**
   (visual + audio + on-screen captions). A concept can pass on paper but drift in the cut.

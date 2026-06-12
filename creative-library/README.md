@@ -12,3 +12,7 @@ Everything tags into the schema agreed here.
 | Kill memory (killed concepts + reason) | 🟡 | Formalise as a flagged subset of the above. |
 
 **First job:** both leads agree the creative-library **schema** — everything else tags into it.
+
+**Live records placed here:**
+- `Wiom_June_L1_Statics_Wave_2026-06.docx` — the 9 live June L1 statics (wave `BRIEF-UNFLT-20260603`),
+  with scorecards + test plan. Learning-log entry: [`/learnings/performance/2026-06_June-L1-statics-wave.md`](../learnings/performance/2026-06_June-L1-statics-wave.md).
