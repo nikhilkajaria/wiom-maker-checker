@@ -1,6 +1,6 @@
 # Learnings
 
-**Owner:** open posting (no required reviewer) · **Curated by:** Karishni
+**Owner:** open posting (no required reviewer) · **Curated by:** Karishni (`@karishnipuri-star`)
 **Status legend:** ✅ in place · 🟡 scattered · 🔴 missing
 
 Anyone may post a learning here — freely, no owner approval to post. Karishni curates.

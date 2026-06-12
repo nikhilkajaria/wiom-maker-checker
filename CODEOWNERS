@@ -4,10 +4,10 @@
 # This is the guardrail that makes "who can edit what" real.
 #
 # IMPORTANT
-#  1. Handles below are real where known (@nikhilkajaria, @shivakimothi-design).
-#     Replace @karishni-handle with Karishni's real GitHub username before relying on it,
-#     and make sure every listed owner has repo access — otherwise their required
-#     review can never be satisfied.
+#  1. Handles below are real (@nikhilkajaria, @shivakimothi-design). Karishni's handle is
+#     @karishnipuri-star — she curates /learnings/ (open, no required owner), so she is not
+#     listed as a required reviewer here. Make sure every listed owner has repo access —
+#     otherwise their required review can never be satisfied.
 #  2. CODEOWNERS only ENFORCES anything when branch protection is ON:
 #     Settings -> Branches -> protect `main` -> "Require a pull request before merging"
 #     + "Require review from Code Owners" + disable direct pushes.

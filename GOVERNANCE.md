@@ -54,8 +54,9 @@ Required settings on `main`:
 
 ## Notes
 
-- The handles in CODEOWNERS are real where known; `@karishni-handle` is a placeholder —
-  replace with the real GitHub username, and make sure each owner has repo access.
+- The handles in CODEOWNERS are real: `@nikhilkajaria`, `@shivakimothi-design`, and Karishni
+  is `@karishnipuri-star` (curates `/learnings/`, which is open — not a required reviewer).
+  Make sure each listed owner has repo access.
 - This file (and `CODEOWNERS`) are themselves owned by **both leads** — changing the
   governance needs both.
 - Repo guardrails (this file) are separate from any future web-app user roles / SSO.
