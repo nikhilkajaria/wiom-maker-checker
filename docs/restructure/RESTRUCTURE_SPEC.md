@@ -69,11 +69,13 @@ Source docs (also verified zero code references) moved from `docs/source_docs/` 
 
 ## Open items (carried forward)
 
-- **Nikhil:** choose local vs auto-on-PR checking (baked into the PR description + agents README).
-- **Nikhil (admin):** enable branch protection on `main` (else CODEOWNERS doesn't enforce);
-  add `ANTHROPIC_API_KEY` secret when arming the agent.
+- **Run mode — DECIDED: Option A (auto-on-PR)** (Nikhil, PR #1 review). He owns the admin:
+  add `ANTHROPIC_API_KEY` secret, arm the workflow, enable branch protection on `main`
+  (Require PR + Code-Owner review; Required approvals = 2 for `/constitution/`).
+- **Ownership split — agreed** (Nikhil, PR #1 review).
+- **Karishni handle — resolved:** `@karishnipuri-star`, recorded in CODEOWNERS / GOVERNANCE /
+  learnings README. Invited to the fork with write access.
 - **Nikhil:** create the formats-spec (unblocks post-prod P3 hygiene).
 - **Both leads:** agree the creative-library schema + the performance registry schema.
-- **Replace** `@karishni-handle` in CODEOWNERS with the real username.
 - **Phase 2:** split `context_layer.md` into per-owner sources + auto-rebuild, so the
   rules-doc and the engine's context stop needing manual sync.

@@ -1,0 +1,127 @@
+Two Creative Briefs — L1 & L2
+The live set is L2-only. These two briefs make June test the buyer-states we believe in—instead of confirming the one we already do.
+WHY READ THIS
+Finish this and you can brief two creatives that close the real June gap: a true L1 (category reclassification) and a true L2 built to the user-recognition standard—each with a kill line written before spend.
+In 60 seconds
+The live set does ONE job—explain commitment-escape (L2). It has no true L1, and the team keeps drifting back to L2 because the product pulls that way.
+L1’s job is reclassification, not flexibility. The test: does the ad answer “which provider?” with “this isn’t the WiFi you’re comparing—it’s recharge-wala ghar ka net”? If its hook is “avoid the monthly,” it’s L2 wearing L1 clothes.
+The L1 brief carries a hard guardrail: NO commitment/waste hook allowed. It must win on category reclassification alone—or we learn that L1 only converts on L2, which is itself a decision.
+The L2 brief is built user-as-hero (situation first), to the standard of the split-light “zaroorat hai / zaroorat nahi” asset—the only live creative that triggers self-recognition, not just understanding.
+Both: every headline lands on “net,” never “recharge.” We are NOT building L3 (mobile-data pain) this round—park any hotspot/top-up/“ek phone se poora ghar” concept.
+What to do
+Comms (Shiva) + campaigns (Nikhil): brief both creatives from the two tables below. Pre-test comprehension before any spend—this week.
+Reviewer (Karishni / Guneet): fail either brief if the L1 carries an L2 hook, if any headline ends on “recharge,” or if an L3 hook has crept in.
+Growth (Guneet): run both in the same broad ad set against the existing L2 set as control. OBSERVE days 1–7. Decision deadline EOD Friday Wk 3.
+Why these two briefs exist now
+FOUNDER NOTE
+We reviewed six live statics and found five doing one job—explaining commitment-escape. That’s L2. The team keeps producing stronger and stronger L2 because the product naturally lends itself to it. That’s the trap: June was built to learn across buyer-states, and a set that’s all-L2 will teach us about the one we already believe in. These two briefs force the test we actually need—and the L1 one is built so it can fail honestly. If L1 can’t win without an L2 hook, that’s a real finding about our positioning, not a creative miss.
+Shared guardrails (both briefs)
+GATE — non-negotiable
+Destination noun is always “net” / “ghar ka net.” Never “recharge” as the final word. “Marzi se recharge karo” fails; re-land on net.
+WiFi is a launchpad cue (earns the first 2 seconds), never the destination. The ad must not leave the user thinking “WiFi.”
+NOT building L3 this round. If a concept’s core hook is hotspot-exhaustion, top-up fatigue, or “ek phone se poora ghar” — park it. This round is L1 and L2 only.
+One dominant visual cue, one dominant message, one proof. Overloaded frames fail the 2-second test.
+Brief 1 — L1: Category Reclassification
+Not the WiFi you’re comparing. A different category. Win on that alone, or learn that you can’t.
+The job: take an active home-WiFi shopper—someone choosing a provider this week, already comparing Jio/Airtel/local broadband—and reclassify the category in their head. Not “Wiom is cheaper / more flexible WiFi.” “Wiom isn’t the WiFi you’re comparing—it’s recharge-wala ghar ka net.” The differentiator (flexibility) comes AFTER the category lands, never as the hook.
+RULE — the clean-test discipline
+This creative may NOT use a commitment-escape / waste-avoidance hook (“poore mahine ka paisa kyun,” “mahine bhar ka recharge nahi”). That is the L2 engine. If we let it in, we never learn whether category-first wins on its own. The whole value of this brief is the isolation.
+Direction to explore: capture search language as launchpad (“ghar ke liye WiFi dhoondh rahe ho?”) → reclassify (“ye wo WiFi nahi”) → land on “recharge-wala ghar ka net.”
+#
+Field
+Entry
+1
+Objective served
+June learning: does category reclassification (“Wiom isn’t WiFi—it’s recharge-wala ghar ka net”) win with an active home-WiFi shopper, without collapsing back into the WiFi/broadband frame? Closes the absent-L1 gap in the live set. Serves the qualified-booking North Star within ₹400 CAC.
+2
+Decision
+Whether an L1 reclassification creative can clear the comprehension gate AND produce coverage-sustaining bookings—i.e. whether “category-first” is a winnable L1 strategy or whether L1 only converts on an L2 (commitment-escape) hook.
+3
+Hypothesis
+A creative whose core beat is category reclassification (not flexibility) clears ≥60% category-ID with zero “mobile recharge / broadband” misreads, and produces bookings whose Wk-4 coverage-continuity is ≥ the live L2 set’s. Null: it cannot win without an L2 hook.
+4
+Assumptions
+The active-shopper (“choosing a provider this week”) exists in the broad ad set and is reachable via creative-as-targeting.
+Category reclassification is a distinct job from flexibility explanation—and is testable in isolation.
+The WiFi cue can be used as launchpad without becoming the destination.
+5
+Evidence plan
+Run alongside the strongest live L2 creative (the split-light user-recognition asset) in the same broad ad set. OBSERVE days 1–7, no winner calls. Comprehension pre-test (n≈10–15) before spend. Read against L2 control on category-ID, booking quality, and CAC.
+6
+Pass criteria
+Pre-spend: ≥60% unaided category-ID as “ghar ka net / recharge-wala ghar ka net,” zero “mobile recharge” or pure “broadband” misreads.
+In-market: coverage-continuity at Wk 4 ≥ live L2 set, at CAC ≤ ₹400.
+7
+Kill criteria
+Pre-spend comprehension returns “WiFi / broadband” as the destination (not launchpad) — fix or kill before any spend.
+Any headline lands on “recharge” as the final destination noun — auto-fail the asset.
+In-market: category-ID-positive but coverage-continuity < live L2 by Wk 2, OR CAC > ₹400 with no improving trend by the deadline.
+8
+Decision deadline
+First read at Wk 2 gate; scale-or-kill called by EOD Friday Wk 3 on whatever data exists. No extension for “one more week.”
+9
+Bet shape
+Downside (capped): one creative’s production + a ring-fenced test budget; if it fails we have spent a small sum to learn the doctrine’s “category-first” premise needs revisiting. Upside (structural): if L1 wins clean, we unlock the largest, highest-intent buyer-state for national scale—and validate the core positioning. Asymmetric by design.
+10
+Scope check
+Yes — targets a household one belief shift away (L1: “Wiom is just another WiFi” → “it’s recharge-wala ghar ka net”). Not need-aware households.
+11
+Decision unlocked next
+A clean L1 win unlocks an L1 creative family + funds the L1 slot for national scale. A clean loss is itself a decision: it tells us L1 converts on commitment-escape, and we stop trying to force category-first at L1—a doctrine amendment candidate.
+12
+Rules cited + notes
+Contrast Doctrine v2.1 (destination = net, never recharge; WiFi-as-launchpad permitted, WiFi-as-destination forbidden). Comprehension gate. OBSERVE→LEARN→DECIDE. Judge on recharge-quality not volume. One clean variable. Hard guardrail: NO L2/commitment/waste hook permitted in this creative—that is what makes it a clean test.
+Brief 2 — L2: User-Recognition (commitment-escape, built as hero)
+Stop explaining the mechanic. Show the user their own life, and let them recognise themselves.
+The job: take the blocked buyer—“I’d buy home internet but the monthly-commitment shape doesn’t fit my life”—and trigger self-recognition, not understanding. The live L2 set explains the mechanic (calendar, day-menu, billing-model contrast). This one opens on the user’s situation and lets the product be the resolution. Anchor: the split-light “zaroorat hai / zaroorat nahi” family scene—the one live asset where the user, not the product, is the subject.
+RULE — the user-as-hero discipline
+The user is the grammatical and emotional subject. Test: who is the subject of the sentence? “Wiom gives you flexible recharge” = product hero (fail). “You don’t need net all month—so don’t pay for all month” = user hero (pass).
+Product enters only as the resolution, never the opening. Open on the tension (need vs no-need), let Wiom be what resolves it.
+Make the on/off contrast (“zaroorat hai / zaroorat nahi”) the dominant, high-contrast element. That contrast IS the ad—if it’s missed at flash speed, it’s just a family photo.
+#
+Field
+Entry
+1
+Objective served
+June learning: build the L2 (commitment-escape) creative to the user-recognition standard, not the product-explanation standard—so we learn whether self-recognition converts better than understanding. Serves the qualified-booking North Star within ₹400 CAC.
+2
+Decision
+Whether an L2 creative built as user-as-hero (open on the user’s situation, product as resolution) outperforms the current product-mechanic L2 creatives on booking quality—confirming “self-recognition > understanding.”
+3
+Hypothesis
+An L2 creative whose subject is the user’s life (“mujhe poore mahine ki zaroorat nahi hoti”) produces higher coverage-continuity bookings than the menu/calendar/billing-model L2 creatives, at ≤ ₹400 CAC. Null: mechanic-led and situation-led L2 convert equally.
+4
+Assumptions
+The real L2 driver is loss-avoidance/commitment-escape, not flexibility-as-novelty (per field data: “poore mahine ka paisa waste nahi hoga”).
+Self-recognition is a distinct, measurable creative effect vs. understanding.
+The split-light “zaroorat hai / zaroorat nahi” mechanic is the strongest existing expression of this and can anchor the family.
+5
+Evidence plan
+Ship the integrated-layout split-light family asset as the lead L2. OBSERVE days 1–7. Comprehension pre-test confirms the “zaroorat hai/nahi” contrast reads at flash speed. Read against the mechanic-led L2 creatives (calendar/menu/billing-model) on quality + CAC.
+6
+Pass criteria
+Pre-spend: the on/off (“zaroorat hai / zaroorat nahi”) contrast is read by ≥60% at flash speed; category-ID lands on “ghar ka net.”
+In-market: coverage-continuity ≥ baseline, CAC ≤ ₹400, and quality ≥ the mechanic-led L2 creatives.
+7
+Kill criteria
+Pre-spend: the on/off contrast is missed (reads as a plain family photo) — strengthen labels or kill.
+Headline lands on “recharge” as destination noun — auto-fail.
+In-market: quality below the mechanic-led L2 set by Wk 2, OR CAC > ₹400 with no improving trend by deadline.
+8
+Decision deadline
+First read Wk 2; scale-or-kill by EOD Friday Wk 3 on whatever data exists.
+9
+Bet shape
+Downside (capped): label-strengthening rework on an asset we already have. Near-zero. Upside (structural): if user-recognition beats product-explanation, it rewrites how we build ALL conversion creative—situation-first becomes the standard. Strongly asymmetric.
+10
+Scope check
+Yes — targets the blocked buyer one shift away (L2: “the monthly-commitment shape doesn’t fit my life” → “recharge only the days I need”). Not need-aware households.
+11
+Decision unlocked next
+A win locks user-as-hero as the L2 build standard and retires the mechanic-led L2 creatives to explainer/MOF slots. Informs whether “flexibility” should be renamed to “protection from waste” in the canon (doctrine amendment candidate).
+12
+Rules cited + notes
+Contrast Doctrine v2.1. User-as-Hero (situation first, product as resolution, compress the hero never abandon them). Show flexibility physically, not conceptually. Loss-avoidance > flexibility (field finding). Judge on recharge-quality. One clean variable.
+The decision both briefs serve
+These aren’t two creatives to add to the pile. They are the two experiments that make June’s learning honest. Right now the set can only teach us about L2. Run these and June answers two real questions: can L1 win on category-first without collapsing into WiFi, and does user-recognition beat product-explanation. Both have capped downside and structural upside. Both can fail cleanly—which is the point.
+If the L1 brief fails its kill line, that is not a wasted test. It tells us the product’s true gravity is commitment-escape, and “category-first at L1” is a doctrine premise worth revisiting—the single most valuable thing June could surface.

@@ -1,0 +1,209 @@
+WIOM  ·  GROWTH  ·  COMMS
+Messaging System per Layer
+Three layers. Three different jobs. Three different briefs. This is the working manual.
+What to land per layer, where the user arrives from, what bridge to build, and what every creative must never do.
+Version v1.3    ·    Status Comms working manual
+Governed by Performance Marketing — Activation Framework v1.4  ·  Operating under 0-to-1 Tradeoffs v1.0 + Contrast Doctrine v2.1
+Audience Comms (Karishni, Deepak, Smit) · Creative briefs cite this doc
+Owner Karishni
+Why read this
+After this, you brief any creative for any layer with a single page of source-of-truth: the belief to land, the bridge to build, the proof that lands it, and what to never put on screen. Each layer’s page is the spec; every creative must trace back to one.
+In 60 seconds
+Three layers, three jobs: L1 (Ready buyer) — bridge from WiFi-comparison to ghar ka net; L2 (Blocked buyer) — land the recharge-shape that broadband can’t give; L3 (Workaround pain) — convert mobile-data pain into ghar ka net consideration.
+Every layer’s message must handle one universal load: the word “recharge” arrives pre-loaded with the mobile-data schema. Our job in every creative is to anchor it to ghar ka net.
+The May creative sprint settled the craft rules: simple beats clever, one job per creative, category before examples, zero confusion is the bar.
+Every creative passes two tests: pre-launch comprehension test (does it land?) and post-launch cohort test (does it produce recharging households?). Neither alone is sufficient.
+What to do
+Karishni — brief every new creative against the layer page (§4–6). No creative leaves the brief stage without naming its layer.
+Deepak / Smit — creative work follows the proof structures and the “must not do” list per layer. Pre-test against the comprehension bar in §8 before media.
+Everyone — if a request is for need-aware households (don’t yet want home internet), it goes to Bob, not us. Filter in §2.
+FOUNDER NOTE
+The whole job here is to make the right thing land in the right head. Not to be clever, not to be aspirational, not to win awards. Land the right belief in the right user, watch them recharge, repeat. The May sprint gave us hard evidence about what works — simple wins, examples-before-category fail, zero confusion is achievable. This doc is how we make that evidence operational in every brief from here on.
+1.  The one thing every layer’s message must handle
+There is one universal load every Wiom creative carries, and it’s the same for all three layers. Naming it up front means we stop relearning it per brief.
+The gift
+Every user we target already understands “recharge” as a payment concept and “internet” as a thing. We are not inventing vocabulary. Both ends of “recharge-wala ghar ka net” are linguistically familiar.
+The load
+The moment a user hears “recharge,” their default mental association is mobile — because mobile is where they’ve recharged for 15+ years. So “recharge” arrives pre-loaded with the mobile-data schema (small pack, single device, prepaid). The category job for every creative is to attach “recharge” to “ghar ka net.” Re-anchor the payment concept to a household, not a phone.
+THE UNIVERSAL JOB
+Every creative — regardless of layer — must anchor recharge → ghar ka net before anything else happens on screen. The layers differ on where the user is starting from (WiFi comparison, broadband refusal, mobile-data pain); the destination is the same.
+2.  What this document is, and what it isn’t
+This is the comms team’s working manual. It tells you per layer: what belief to land, how the user arrives, what bridge to build, what proof structures work, what to never put on screen, and how we know the message worked.
+This is the brief-level spec. Every creative cites the layer page it serves.
+This is not the strategy. The strategic frame is the Activation Framework v1.4.
+This does not cover need-creation work — households who don’t yet want home internet. That is Bob’s territory with his own system.
+The filter that keeps us focused
+BEFORE ANY BRIEF
+Ask one question: Is this user one belief shift away from considering home internet?
+Yes (L1, L2, L3) → ours. No (need-aware, not yet considering) → Bob’s.
+3.  The per-layer template — seven things every brief specifies
+Each layer’s page (§4–6) is structured the same way, so the comms team can move between layers without reorientation. Memorise this template; every brief lives inside it.
+Section
+What it is
+Used for
+A. Objective
+One sentence: the specific belief shift this layer’s messaging creates, and the action it unlocks.
+Aligning the creative on the actual cognitive job.
+B. Starting point
+What the user brings — gifts (knowledge to leverage), traps (assumptions to disrupt), lingo (their actual words).
+Designing the opening of the creative.
+C. The bridge
+The specific conceptual move from the user’s frame to Wiom’s.
+Naming the cognitive motion the creative must perform.
+D. The differentiator
+The single, specific Wiom value for this layer’s JTBD.
+Picking the one thing this creative makes unmistakable.
+E. Must NOT do
+Boundaries drawn from the May sprint and the contamination logic.
+Veto list during creative review.
+F. Proof structures
+Sprint-informed rules: what worked, what to repeat.
+Picking the visual/copy structure for the creative.
+G. Success criteria
+Pre-launch comprehension test + post-launch cohort test.
+Knowing whether the creative actually worked.
+4.  L1 — Ready buyer
+“I want home WiFi now.” They have decided to buy home internet and are choosing a provider this week. Active, comparison-mode, incumbent-trained.
+A. Objective
+LAYER OBJECTIVE
+Bridge the user from “I’m shopping WiFi options” to “Wiom is poore ghar ka net — and flexibility is what makes it different.” Land the category as a new thing they recognise, not a cheaper version of WiFi.
+B. Starting point — what the user brings
+Gifts (leverage)
+Already knows “WiFi,” “ghar,” “net,” and “recharge” as a payment concept. Has active home-internet intent.
+Traps (disrupt)
+Defaults to provider-comparison mode (Jio/Airtel/ACT). “Recharge” triggers the mobile-data schema. Expects monthly plan + speed pitch.
+Lingo they bring
+WiFi, plan, monthly, speed, unlimited, broadband.
+C. The bridge to build
+“Recharge” (payment concept they own) + “ghar ka net” (whole-home internet they own) = a new but accessible category. The cognitive motion: “which WiFi brand do I pick” → “this is a different way to have home internet” → “and flexibility is why it’s worth choosing.”
+D. The differentiator to land
+Flexibility. Pay only for the days you use. “1 din ka recharge, 7 din ka recharge — jab chahiye, tab.” The granularity is the proof; no incumbent offers it. The granularity is the value prop.
+E. What L1 messaging must NOT do
+Don’t lead with WiFi as a standalone noun. Naming it without a strong RWGKN destination traps the user inside the broadband schema. Category contrast is permitted only when the destination test (Contrast Doctrine §5A) lands on RWGKN — e.g., “Not the WiFi you know — recharge-wala ghar ka net” or “Monthly WiFi? Ya recharge-wala ghar ka net?” Forbidden: “WiFi se better” / “Why pay for WiFi” / “WiFi ki zaroorat nahi.” Full permitted/forbidden patterns: Doctrine §6A. Test, don’t assume.
+Don’t compare to Jio / Airtel / ACT. Accepting their frame loses the category fight.
+Don’t add occasion examples (match, exam). Static 02 caused 21% confusion when category wasn’t anchored.
+Don’t promise “cheaper.” Commoditises Wiom into broadband and fuels a price war we can’t win.
+Don’t cram category and flexibility into one beat. One job per creative — land category, then flexibility.
+F. Proof structures that work
+Plain category statement first. Static 01’s structure (“Poore ghar ke net ka recharge”) hit 60% “Net” identification with zero confusion.
+Show the granularity directly — 1 din, 7 din, 14 din, 30 din. The granularity is the proof of flexibility.
+Whole-home / family scene over device or router shots. Keep the frame on the household, not the hardware.
+Resist additions. Every feature, occasion, or comparison you add costs you category clarity.
+G. Success criteria
+COMPREHENSION (pre-launch)
+User describes Wiom unaided as “ghar ka net jisme recharge karte hain” — category lands.
+User recalls “jitne din chahiye, utne din” — differentiator lands.
+Zero confusion is the bar (Static 01 standard).
+COHORT (post-launch)
+L1 cohort coverage-continuity holds against baseline. Burst-then-churn pattern is the kill signal — L1 is the layer most prone to it because cheap-WiFi shoppers convert easily and leave.
+5.  L2 — Blocked buyer
+“I want home internet but its current shape doesn’t fit my life.” They’d buy if the commitment shape were different. Natively fit — we are their answer, not a comparison.
+A. Objective
+LAYER OBJECTIVE
+Land Wiom as the solution to “I want home internet but the monthly-commitment shape doesn’t work for me.” The belief shift is structural — home internet doesn’t require monthly commitment, it can be recharge-shaped, and Wiom IS that.
+B. Starting point — what the user brings
+Gifts (leverage)
+Knows home internet; actively wants it; understands recharge as a payment concept; has already rejected broadband as not fitting.
+Traps (disrupt)
+Assumes “home internet = monthly commitment” is universal. May have tried broadband and bounced. Sceptical anyone offers what they need.
+Lingo they bring
+WiFi or broadband (with negative associations), monthly bills, “kab kab chalega,” variable income, “lock-in.”
+C. The bridge to build
+Recharge + ghar ka net delivers exactly the structure they wanted but couldn’t get from broadband. The cognitive motion: “home internet is too rigid for my life” → “home internet can be recharge-shaped” → “Wiom IS that.”
+D. The differentiator to land
+Commitment shape. Pay-as-you-go, no monthly lock-in. “Jitne din chahiye, utne din ka recharge.” The proof is the structure itself, shown directly.
+E. What L2 messaging must NOT do
+Don’t sound like “cheaper broadband.” They sense the trap and bounce. Lead with the structural difference, not the price difference.
+Don’t hide the recharge model. The recharge-shape is the value prop for this user. Hiding it loses the entire point.
+Don’t add occasion examples before the structure lands. Same sprint lesson — examples add load until category is anchored.
+Don’t position as a downgrade (“if you can’t afford broadband”). Position as a fit (“designed for households like yours”).
+Don’t bury the granularity. The 1-day, 7-day, 30-day options are exactly what unblocks them — make them visible.
+Don’t let commitment-shape contrast land on the wrong destination. Contrast is permitted (and encouraged) for L2 — this is Family A2 in the Contrast Doctrine. But the destination must be “recharge-shaped ghar ka net,” not “monthly broadband, just cheaper.” The destination test is Doctrine §5B. Forbidden patterns: “monthly broadband se sasta,” “lock-in tod do” (without strong affirmation). Full permitted/forbidden patterns: Doctrine §6B.
+F. Proof structures that work
+Lead with the commitment-shape contrast: “Monthly bill nahi, recharge.” Name what they don’t want, then show what they get.
+Show the granularity directly — 1 din to 30 din visualised as choices, not as a price table.
+Use household / income context as control, not constraint. Frame as agency, not poverty.
+Family / household setting that signals “this is built for people whose lives look like yours.”
+G. Success criteria
+COMPREHENSION (pre-launch)
+User describes Wiom as “ghar ka net jisme commit nahi karna hota.”
+User identifies the recharge-shape as the reason to switch — not price.
+COHORT (post-launch)
+L2 cohort coverage-continuity is expected to be the highest of the three layers — they’re natively fit. If this hypothesis is wrong, the entire layer logic needs revisiting; flag immediately.
+6.  L3 — Workaround pain
+“Mobile data for the house is painful.” They feel the pain but haven’t categorised home internet as the solution. Conversion of mobile-data-pain users into home-internet consideration.
+A. Objective
+LAYER OBJECTIVE
+Convert the user’s felt mobile-data pain into recognition that home internet IS the answer — and Wiom is the recharge-shaped version that fits. Belief shift: “mobile data se kaam chal raha hai” → “ghar ka net solves this.”
+B. Starting point — what the user brings
+Gifts (leverage)
+Feels real, ongoing pain: data running out, hotspot juggle, family complaints, kids fighting over data. Knows recharge (as mobile). Knows internet.
+Traps (disrupt)
+Hasn’t categorised home internet as the solution to mobile-data pain. May see home internet as “not for me.” Tolerates the pain because it’s the default.
+Lingo they bring
+Data nikal jata hai, hotspot, recharge (mobile), data finished, kaam chal raha hai.
+C. The bridge to build
+A two-step bridge: surface the pain first → then deliver ghar ka net as the answer that fits (recharge-shaped, so it fits their existing payment rhythm too). The cognitive motion: “this pain is bearable, just life” → “this pain has a solution” → “the solution is ghar ka net — and Wiom is the one that fits.”
+D. The differentiator to land
+Whole-family-on-one-recharge. The math is the proof: 3–4 mobile recharges across the family in a week = one ghar recharge that serves everyone. Plus recharge-shape so it fits the payment rhythm they already have.
+E. What L3 messaging must NOT do
+Don’t lead with category before pain. Pain is the door for L3. Opening with “ghar ka net hai” loses them before they’re listening.
+Don’t shame the current behaviour. Mobile data has been their solution. Respect it before you replace it.
+Don’t make it aspirational. “Imagine your family with home internet” is Bob’s territory. Keep it relief-based and grounded.
+Don’t compete with mobile providers. Frame as “next level,” not “alternative.” You’re solving a different problem.
+Don’t lead with price competition. Make it about pain relief and the math, not “cheaper than mobile recharge.”
+Don’t let mobile-recharge contrast put mobile as the destination. This is Family B in the Contrast Doctrine. Contrast is permitted for L3 — but the destination must be “ghar ka net” / “poore ghar ka net.” Safety rule: “net” must be the destination noun, never “recharge” alone. Forbidden: “Wiom ka recharge poore ghar ke liye” (recharge as head noun), “mobile recharge jaisa hi recharge,” “mobile recharge se sasta.” Full permitted/forbidden patterns: Doctrine §6C. Destination test: Doctrine §5C.
+F. Proof structures that work
+Pain-first opening: “Mobile data se kaam chal raha hai? Family ko data dena padta hai?” Trigger recognition before delivering the answer.
+Math demonstration: 4 mobile recharges a week = 1 ghar recharge that serves everyone. The math is the proof.
+Whole-family-using-internet-without-fighting visual. Relief, not aspiration.
+Two-step framing in the creative: name the pain, then introduce the answer. Don’t conflate them.
+G. Success criteria
+COMPREHENSION (pre-launch)
+User articulates why ghar ka net solves their specific pain — the math + the whole-family use case.
+Recognition of the pain itself is high (it’s real); the test is whether ghar ka net registers as the solution.
+COHORT (post-launch)
+Longer payback expected — the cognitive movement is real. Coverage-continuity remains the gate. L3 may need assisted-conversion measurement and — if it starves under shared optimisation — separate engagement-event treatment (per the activation framework’s fragmentation trigger).
+7.  Universal craft rules — from the May creative sprint
+Forty-four interviews. Three statics. One video. The May sprint settled craft rules that apply across all three layers. These are rules, not preferences — every brief obeys them.
+Simple beats clever. Static 01 (plain copy, no occasion examples) hit 60% “Net” identification with zero confusion. Static 02 (match/exam examples) hit 0% “Net” with 21% confusion. The simpler structure won on every measure.
+One job per creative. When category and flexibility were both jammed in, neither landed. Land one cleanly, then the next — in the next creative.
+Category-first, value-second. When category landed (17 of 44 said “Net”), 10 also picked up flexibility. When category didn’t land, flexibility may transmit but the user can’t act on it.
+Don’t add use-case examples before category is resolved. The audience is still working out “what is this.” Examples add load, not clarity.
+Zero confusion is the bar. Static 01 and Static 03 both hit 0% confusion. Make it the bar, not “under 20%.”
+The benchmark is the winner, not the average. When evaluating any new creative, compare to the best of what we have (Static 01-class), not to an averaged baseline. Improving the average is not the goal; raising the ceiling is.
+8.  How we test every creative
+Two tests, both mandatory, before any creative scales. Both implement specific Operating Tradeoffs rules — the rules are what makes the tests load-bearing rather than ceremonial.
+Pre-launch — comprehension test  (Rule 2: null hypothesis upfront)
+Show the creative to a small group (n ≈ 15–20 minimum per creative); ask unaided: “Kis cheez ka ad hai?” and “Ismein kya alag laga?” Record:
+Category-identification rate (Net + WiFi together count as category-correct; the creative says “ghar ka net”)
+Differentiator-recall rate (does the user remember the flexibility / commitment-shape / family-math, as relevant to layer)
+Confusion rate (how many cannot place the ad at all)
+Pass bar: matches or beats Static 01’s structure (~60% category-correct, ~70% differentiator recall, zero confusion). Pre-set in the brief, non-negotiable after. Rotate creatives across interviewers so creator skill doesn’t confound the read.
+Post-launch — cohort test  (Rule 6: kill criteria upfront)
+Every booking carries the tag of the creative that brought it in. Followed downstream for coverage-continuity (per Friction Doctrine §7). The cohort metric is the real test; comprehension is the leading indicator. A creative that comprehends well but cohort-fails is killed. A creative that comprehends poorly does not reach scale. Kill criteria — specific, measurable — are written in the brief before launch and enforced regardless of in-the-moment feelings.
+Time-boxing the decision  (Rule 9)
+Every creative test has a decision deadline written into the brief. By the deadline, the call is made on whatever data exists — scale, kill, or revise — not deferred for “more data.” Without this, comprehension tests run indefinitely and cohort reads get postponed past the point they could change anything.
+BRIEF DISCIPLINE
+Every new creative starts with a brief in the Decision Brief Template v1.1 — carrying the comprehension pass bar (Rule 2), the cohort kill criteria (Rule 6), the decision deadline (Rule 9), the asymmetric bet shape (Rule 12), and the layer this serves. Reviewers fail briefs that miss any of these.
+9.  How this connects, what’s locked, what’s being learned
+Connections
+Wiom 0-to-1 Operating Tradeoffs v1.0 — the foundational operating discipline this manual lives inside. §8 implements Rules 2 (null hypothesis upfront), 6 (kill criteria upfront), 9 (time-box decision).
+Decision Brief Template v1.1 — every creative starts with a brief. Reviewer (Karishni) fails briefs that miss pre-set pass bar, kill criteria, decision deadline, bet shape, or named assumptions.
+Wiom Contrast Doctrine v2.1 — governs contrast usage across all three layers: L1 category contrast (permitted/forbidden patterns §6A, destination test §5A); L2 commitment-shape contrast (§6B, §5B); L3 mobile-recharge contrast (§6C, §5C) with the “net as destination noun” safety rule. Reviewer checks the appropriate destination test on every brief.
+Activation Framework v1.4 — the strategic frame this manual operationalises.
+Friction Doctrine v1.1 + Experiment Plan v1.0 — the back-end conditions; the booking surface and the recharge gate.
+Shiva’s gates / Constitution — every creative passes the gates before media; non-negotiable, especially for L1 where contamination risk is highest.
+Command Center kill-override — cohort signal can kill any creative at any time, regardless of comprehension performance.
+Bob’s messaging system — for need-aware households; out of scope here.
+Locked
+Three layers: L1 (Ready buyer), L2 (Blocked buyer), L3 (Workaround pain). No others.
+The objective and differentiator per layer.
+The universal load (recharge → mobile schema) — every creative handles it.
+The pre-launch comprehension test (Rule 2) and post-launch cohort test (Rule 6), with decision deadline per Rule 9.
+The craft rules from §7 — rules, not preferences.
+Being learned through June
+Whether L2 is in fact the highest coverage-continuity cohort (the natively-fit hypothesis).
+Whether L3 converts cleanly inside shared optimisation, or needs separate engagement-event treatment.
+Which specific household realities inside each layer predict best recharge-continuity — the real strategic asset.
+Bump version on any change to the layer objectives, differentiators, must-not-do lists, or craft rules. Refinements to wording or examples may live in v1.x; structural locks require v2.0.
