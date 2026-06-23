@@ -1,0 +1,55 @@
+Wiom Performance Creatives —  Learnings (1–8 Jun)
+How to read this
+A creative has two jobs: earn attention and turn it into a paid booking. Two rules of fairness apply:
+Attention is judged within format — statics on click-rate, videos on hook-rate (videos are built to be watched, not clicked, so the two can't share a ladder).
+Booking cost is format-blind — a paid booking is the same outcome from a poster or a film, so that's the only metric we compare across formats.
+Caveats: (1) We don't target by audience layer — all creatives run in one pool and the algorithm routes them. (2) Booking numbers are early/small, so booking-cost reads are directional. (3) Booking costs use the ₹25-fee era (4–8 Jun).
+The cultural truth under everything: for 15+ years "recharge" has meant mobile recharge. Every ad's first job is to make "recharge" clearly mean ghar ka net. (Proven in the May comprehension sprint: plain ad = 60% "this is Net", zero confusion; ad with occasion examples = 0%, 21% confusion.)
+1. CROSS-LEARNINGS (the static patterns)
+A. The winning formula. Every winner runs the same play: a simple, rational "why pay when you don't need it" money-argument, clearly anchored to ghar ka net, one idea, one real person. Travel ("not home → why pay") and Monthly ("not daily → why pay the month") are the same idea in two situations.
+B. The losing pattern. Creatives fail when they lean on "recharge / top-up / hotspot" language (gets read as a mobile-data offer), use a vague feeling-promise ("befikr") instead of a concrete "pay only what you use," or need two steps of explanation a still image can't deliver.
+C. Format is a job, not a competitor. Statics win clicks cheaply and carry simple money-logic best. Videos win attention depth (the comparison films hook ~15–22%) and are the only format that can land a two-step idea. The sharpest proof: the Hotspot idea fails as a poster (₹16,400/booking) but works as a video (₹4,600) — same idea, format made the difference.
+Videos
+A.Comparison films are the strongest attention format we have. The top of the hook ladder is dominated by green-screen comparison films — Exam (22%), Variable-cashflow (16.5%), Weekend (14.5%). The side-by-side contrast device stops the scroll harder than vox-pops or testimonials.
+B.The "occasion" messages that DIE as posters WIN as comparison films. Exam is the worst static and the #1 video. This is the single clearest format lesson: an occasion needs motion + contrast to land. → Run occasions only as comparison films.
+C.Format can rescue a losing message. Same message, format flips the result:
+Hotspot: poster ~₹16,400 → video ₹4,621 (≈3.5× better)
+Top-up: poster ~₹8,300 → video ₹5,341 (≈1.6× better), and it hooks well as live vox-pop (15.7%).
+D. The Top-up and Hotspot messages aren't dead — the static format was killing them.
+But simple money-logic still converts cheapest as a static. Monthly-commitment as a poster (~₹1,360) beats every video on booking cost. → Statics for simple savings-logic; video for anything needing explanation.
+E. AI holds up against live shoots — on both axes. AI versions hook and hold as well or better than live (Travel-AI 12.0/3.9 vs Monthly-live 11.1/2.6) and convert at the same booking cost (Monthly-AI ₹5,173 ≈ Monthly-live ₹5,357). → AI is a viable, cheaper production route — keep scaling it.
+**************Details Static and next steps*************************************
+🏆 TOP 3
+1. Travel — "Not home, so why pay the bill?" - https://drive.google.com/file/d/1qB-KVyYB8umGmxqKShJvPXGAdBQTNMQs/view
+What's happening: Best on both jobs — 5 of every 100 viewers click (double the next ad) and the cheapest paid booking (₹4,300).
+Hypothesis (why): It's one simple money-idea, and it rides the familiar "pay only when you use it" instinct without tripping the mobile-recharge confusion, because "ghar ka net ka bill" clearly anchors it to a home connection. 🔶
+To confirm: "Why did you book" calls — do bookers cite the pay-only-when-you-need logic (confirms) or just price/speed (kills)? Karishni Puri- Lets try figuring out this one
+Next step: Make it the lead message; build variations. Pre-test comprehension before scaling (travel flirts with being an "occasion," which we know can backfire).
+2. Monthly-commitment — "Need isn't daily, so why pay the whole month?"- https://drive.google.com/file/d/1EJo2vjaWsrfiKFhKy44FCFCL9SlRhF8g/view
+What's happening: 2nd-best attention; cheapest booking of all (~₹1,360) in install-style campaigns.
+Hypothesis (why): It's the purest "home internet can be recharge-shaped" message, with the problem and the fix in one line — and pay-as-you-need maps onto the prepaid-mobile habit people already have, so it feels instantly familiar. 🔶
+To confirm: Same "why did you book" calls — look for "I only pay when I need it" as the stated reason. Karishni Puri
+Next step: Keep running; place it where it shines (install-style campaigns). Watch whether these bookings actually recharge.
+3. Family — "The whole house fighting over one connection" - JUN26-T-021__L3.FAM.PEER.STA.STILL.CF__T-NS-03__v1__1x1-IMG.jpg - Google Drive
+What's happening: The volume engine — most bookings of any single ad (20), at an average cost.
+Hypothesis (why): The whole-family-internet-struggle is a universally felt pain, so it converts broadly even on a mixed audience. 🔶
+To confirm: Cancellation reasons + recharge data — does it bring quality bookings that stay, or just volume that churns? Karishni Puri
+Next step: Use as a dependable always-on message; confirm it isn't being starved by the algorithm.
+🔻 BOTTOM 3
+4. Top-up fatigue — "Tired of recharging"
+What's happening: Loses at both ends — fewest clicks and most expensive bookings (₹8,300+), everywhere.
+Hypothesis (why): "Top-up / recharge" is the customer's mobile-data vocabulary, so the ad gets read as a mobile-recharge offer, not home WiFi — and as a still image it can't do the two-step "name the pain, then show it's home internet" that this message needs. ✅
+To confirm: Sales-call transcripts would seal it — callers asking "kitne GB?" / "yeh mobile recharge hai?" Karishni Puri
+Next step: Don't reword — rebuild: lead with the home-WiFi cue before the word recharge, and move it to video.
+5. Hotspot — "Whole house on one hotspot" (the poster)
+https://drive.google.com/file/d/1kh5eUnfDByT_f9m_DGZO7YX00u2_J3gx/view
+What's happening: Cheap clicks, but the worst booking cost (~₹16,400) — the trap case. The same idea as a video converts fine (~₹4,600).
+Hypothesis (why): This pain needs a two-step explanation; the poster shows the pain but has no room to land "→ this is home WiFi, here's the math," and the hotspot image itself reinforces the mobile-data confusion. The video works because it can tell both steps. 🔶 (supported by the poster-vs-video gap in our own data.)
+To confirm: Comprehension test on the static (does "Net" land?) + transcripts from people who clicked it. Karishni Puri
+Next step: Retire the poster; keep the idea as video only.
+6. Occasion posters — exam / weekend / work-from-home
+https://drive.google.com/file/d/1sEWHUdV6PIUAIWb-wTd7BIHog7JZifoz/view
+What's happening: Lowest clicks as posters, some with zero bookings — but the exam idea as a comparison video had the highest watch-rate of anything.
+Hypothesis (why): Occasion examples add confusion before the viewer has even worked out "what is this," so category never lands; motion gives the idea room to make sense. ✅
+To confirm: (already confirmed.)
+Next step: Stop running occasions as posters; only as the comparison films already being briefed.

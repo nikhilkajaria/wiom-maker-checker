@@ -1,0 +1,327 @@
+Wiom
+Creative Evaluation Framework
+Facebook Performance Ads
+The goal of a Facebook ad is not to explain the product. The goal is: get the right person to stop scrolling, understand why they should care, understand why your solution is different, and know what to do next.
+SECTION A
+Wiom Brand Rules
+These rules apply to every creative, before evaluation begins. A creative that breaks any of these is disqualified regardless of its score.
+A1: Positioning
+Wiom — Recharge Wala Ghar ka Net
+Pay-As-You-Go home internet. No one else in India offers this.
+Category rule
+Jitne din Recharge, utne din Net
+This is the one line that defines the category. Every creative must communicate this rule, in these words or a faithful variant.
+Every creative must make Wiom feel like a new category, not a better version of existing internet options. The recharge mechanic is the differentiation. It must be visible, not just implied.
+A2: Language Rules
+Rule
+Detail
+Default script
+Devanagari. All headlines, body copy, and CTA in Hindi unless contextually Hinglish works better.
+Hinglish
+Acceptable when it flows naturally in context. Not as a shortcut to avoid writing Hindi.
+Numerals
+Always in English. 1 din, 7 din, 14 din — not ek din, saat din.
+Script mixing
+Hindi headline + English numerals is the standard pattern.
+A3: Vocabulary Rules
+The words below are banned because they frame Wiom inside a category it is replacing. Using them undermines the positioning even if the rest of the creative is strong.
+Banned Word / Phrase
+Why
+WiFi
+Positions Wiom as a WiFi brand. Wipe it — use 'ghar ka net' or 'Wiom'.
+Broadband
+Legacy ISP framing. Wrong category.
+Plan
+Implies fixed packages and commitments.
+Monthly
+Subscription language. Contradicts PayG.
+Validity
+Telecom plan framing. Avoid entirely.
+Unlimited
+Implies a cap you're removing. PayG has no cap logic.
+Subscription
+Directly contradicts the model.
+Quarterly
+Commitment framing. Wrong for PayG.
+Use instead:
+Use This
+Context
+Ghar ka net
+Primary product reference. Replaces WiFi/broadband.
+Recharge
+The core mechanic. Always visible.
+Jitne din Recharge, utne din Net
+The category rule. Flexibility framing that replaces validity/plan.
+Apni marzi ka net
+Autonomy framing for flexibility angle.
+1 din | 7 din | 14 din
+Standard recharge options. Numerals in English.
+A4: Call to Action Standard
+Book Karein
+Always accompanied by the Play Store icon.
+No other CTA wording is approved for primary use. Secondary CTAs (e.g. 'Apne area mein check karein') are acceptable as supporting copy, but the primary action is always Book Karein.
+A5: Comparison Ad Rules
+Wiom can run comparison ads. One rule governs all of them: the destination must be Wiom's category, not just Wiom's name.
+Creative
+Verdict
+Yeh WiFi nahin, Wiom hai
+Works — redefines the category, not just the brand.
+Wiom — best WiFi
+Fails — puts Wiom inside the WiFi frame it is replacing.
+Broadband se better hai Wiom
+Fails — comparison lands inside the wrong category.
+Mahine ka nahin, din ka recharge
+Works — contrast lands on Wiom's mechanic, not a competitor.
+Test: does the creative make the viewer feel they have discovered something new, or just switched brands? If it's brand-switching, it fails.
+A6: Visual Direction
+The user is the hero. Never the product.
+The creative shows a person whose life got better. The product is the enabler in the background, if visible at all.
+What this means in practice
+Element
+Direction
+Subject
+Show the moment of benefit: kids on a video class, family watching together, a man recharging for exactly the days he needs. Not the device, not the app UI as centrepiece.
+Casting
+Relatable lower and middle income Indian household. Real homes with real clutter, not aspirational apartments. The viewer should think 'yeh mere jaisa hai'.
+Emotion
+Relief and control, not tech excitement. The face tells the story of bill anxiety gone.
+Product presence
+Wiom logo, recharge options and CTA live in the text layer. The router, if shown, sits naturally in the scene, never centre frame.
+Setting
+Inside the home, daily life in progress. The home is the stage, the user is the actor, internet is the invisible enabler.
+Anti-patterns (auto-fail the visual)
+Speed-test screenshots or Mbps numbers as the visual hero
+Glowing routers, signal waves, fibre cables, data-centre imagery
+Stock-photo corporate families in premium apartments
+City skyline or abstract tech backgrounds
+App UI screenshots as the primary image
+Visual test
+Remove all text from the creative. Does the image still say 'an ordinary household whose life works better'? If the image only says 'internet product', the visual fails.
+A7: Mobile Legibility
+Creatives are viewed on phones, in a feed, for roughly 1.5 seconds. The framework scores what an ad says; this rule limits how much it says. A creative that fails any rule below is reworked before scoring, regardless of how strong its copy is.
+Rule
+Detail
+One idea, once
+No message may appear twice on the canvas. If the category rule is in the mechanic band, it cannot also sit under the CTA button. Repetition is clutter, not reinforcement.
+Text budget: 6 elements max
+Headline, one subline, one mechanic line, recharge options, CTA button, logo lockup. Anything beyond this moves to the ad caption.
+3-second phone test
+View the creative at actual phone size for 3 seconds. Whatever could not be read gets deleted or enlarged. Never shrunk to fit.
+Smallest text rule
+If a line must be small to fit, it does not belong on the image. Proof points and CTA riders go to the caption.
+Caption is part of the ad
+The Facebook primary text carries the overflow: proof (1 लाख घरों का भरोसा), CTA riders, supporting detail. The image carries only what must survive a 1.5-second glance.
+Canvas vs caption split
+On the image
+In the caption
+Headline (hook)
+Proof points and social proof
+One subline
+CTA rider (urgency / reassurance)
+Category rule OR mechanic line (one, not both)
+Secondary benefits
+1 din | 7 din | 14 din
+Supporting detail and offers
+Book Karein + Play Store icon
+Wiom logo + positioning line
+SECTION B
+Target Personas
+Wiom targets lower and middle income Indian households. Within that, two buyer states determine what a creative needs to do.
+Targeting cannot be controlled at creative level.
+Both L1 and L2 may see any creative. The default must be creatives with range — hooks that work for someone not yet shopping, not just someone already comparing options.
+L1 — Ready Buyer
+Dimension
+Detail
+Who
+Actively looking for home internet. Will buy from someone — Wiom needs to be the answer.
+Mental state
+Comparing options. Price-aware. Weighing commitment vs cost.
+What the creative must do
+Show differentiated value. Recharge flexibility is the hook. Make them feel Wiom fits their life better than a fixed plan.
+Core message
+Recharge as per your life. Jab chahein, jitne din chahein.
+Hook type
+Differentiation and comparison. 'Yeh WiFi nahin, Wiom hai' works here.
+L2 — Locked Buyer
+Dimension
+Detail
+Who
+Would like home internet but has opted out. Irregular cash flow. Cannot commit to monthly or quarterly payments.
+Mental state
+Door is mentally closed. Not scrolling for internet options. Current category doesn't fit their life.
+What the creative must do
+Crack a locked belief. Name the exact reason they opted out. Make them feel the barrier has been removed.
+Core message
+Ghar ka net ab commitment ke bina. Jitne din Recharge, utne din Net.
+Hook type
+Life-situation pain. Not comparison. Comparison assumes they are already in the market.
+Dual-Persona Stress Test
+Because L1 and L2 cannot be separated at delivery, every creative must pass this test before scoring:
+Test 1 — Range
+Would this creative stop someone who is NOT currently looking for home internet? If no, it is a narrow L1-only creative.
+Test 2 — Confusion
+Would this creative confuse someone who has never considered home internet? If yes, it risks alienating L2.
+Creative type
+Range
+Life-situation hook (pain/cash flow/mobile data)
+Both L1 and L2 — default format
+Recharge mechanic as hero
+Both L1 and L2 — strong default
+Comparison / category contrast
+Primarily L1 — use as secondary format
+Brand feature list
+L1 only — weakest for range
+SECTION C
+Evaluation Framework
+Score each creative on 6 dimensions. Apply Section A rules and the dual-persona test first. A creative that fails either is disqualified before scoring.
+Step 1: Audience
+Question
+Who is this for? A stranger should know within 2 seconds.
+Examples
+Good:  Ghar mein net chahiye?
+Good:  Mobile data jaldi khatam ho jaata hai?
+Bad:    Best internet solution — too generic, no person identified.
+Score (0–10)
+Score
+Meaning
+0–3
+Audience unclear
+4–6
+Audience implied
+7–8
+Audience clear
+9–10
+Audience immediately identifies themselves
+Step 2: Motivation
+Question
+Why should they care? The creative must trigger desire or pain. For L2, it must crack a locked belief — not just show a benefit.
+Desire triggers
+External:  Save money, get ghar ka net, recharge flexibility
+Internal:  Feel smart, feel in control, no bill anxiety
+Philosophical:  Kyun dein poore mahine ka paisa? Internet apni marzi ka hona chahiye.
+Pain / Fear triggers
+Mobile data baar baar khatam ho jaata hai
+Har mahine fix payment dena padta hai chahe use karein ya nahi
+Ghar mein net lena bahut expensive lagta hai
+L2-specific: Belief-cracking hooks
+Ghar ka net sirf unke liye nahin jo har mahine dete hain
+Abhi paise nahin hain toh kya? Kal recharge karo
+Commitment nahin chahiye — bas zaroorat ke din ka recharge
+Score (0–10)
+Score
+Meaning
+0–3
+No reason to care
+4–6
+Weak benefit or generic pain
+7–8
+Clear benefit or named pain
+9–10
+Strong emotional trigger or locked belief cracked (L2)
+Step 3: Product Promise
+Question
+What outcome is being promised? Understandable in 5 words or less. Must not use banned vocabulary.
+Examples
+Recharge wala ghar ka net
+Jitne din Recharge, utne din Net
+Ghar ka net apni marzi ka
+Test
+Can a user answer "Yeh kya hai?" within 2 seconds?
+Score (0–10)
+Score
+Meaning
+0–3
+Confusing or uses banned vocabulary
+4–6
+Somewhat clear
+7–8
+Clear and on-category
+9–10
+Instantly understood, positions new category
+Step 4: Recharge Mechanic Visibility
+This step replaces a generic mechanism/proof step for Wiom. The recharge mechanic is the entire differentiation. It must appear in the creative, not just be implied by the brand name.
+What counts as visible
+Recharge options shown:  1 din | 7 din | 14 din — the options themselves as copy
+Mechanic explained:  Jab chahein recharge karein, jab nahi chahiye mat karein
+Proof / scale:  Used by 1 lakh ghar
+Price anchor:  Starting ₹X
+Score (0–10)
+Score
+Meaning
+0–3
+Recharge mechanic absent — disqualify
+4–6
+Mechanic implied but not shown
+7–8
+Mechanic clearly shown
+9–10
+Mechanic shown with proof or price anchor
+Step 5: Call to Action
+Standard CTA
+Book Karein  +  Play Store icon
+This is the only approved primary CTA.
+Supporting CTAs like 'Apne area mein check karein' are acceptable as secondary copy. They do not replace Book Karein.
+Score (0–10)
+Score
+Meaning
+0–3
+No CTA or wrong CTA wording
+4–6
+Generic CTA, Play Store icon missing
+7–8
+Book Karein present, icon present
+9–10
+Book Karein + icon + supporting copy that adds urgency or context
+Step 6: Thumb Stop Power
+Question
+Would this stop someone scrolling who is not currently looking for home internet? (L2 standard — the harder test.)
+What creates thumb stop for Wiom's audience
+Named pain:  Mobile data khatam? — immediate recognition
+Belief challenge:  Ghar ka net sirf rich logon ke liye nahin — unlocks L2
+Curiosity gap:  Ghar ka net recharge pe? — makes them read further
+Contrast:  Monthly payment nahin. Bas zaroorat ke din.
+Visual:  Real home setting, relatable family, not aspirational tech imagery
+Score (0–10)
+Score
+Meaning
+0–3
+Easily ignored, no hook
+4–6
+Average — only stops an L1 already shopping
+7–8
+Good — works for both L1 and L2
+9–10
+Hard to ignore — stops someone who had given up on home internet
+Final Scoring Formula
+Apply only after passing Section A rules and the dual-persona test.
+Component
+Weight
+Audience
+15%
+Motivation
+30%
+Promise
+20%
+Recharge Mechanic
+15%
+CTA
+10%
+Thumb Stop
+10%
+Creative Score = 0.15(Audience) + 0.30(Motivation) + 0.20(Promise) + 0.15(Mechanic) + 0.10(CTA) + 0.10(Thumb Stop)
+What a 10/10 Wiom Creative Looks Like
+A perfect creative allows any viewer — L1 or L2 — to answer all 6 questions instantly:
+1.  Is this for me?
+2.  Why should I care?
+3.  What is this product?
+4.  How does it work — what is the recharge mechanic?
+5.  Why should I believe it?
+6.  What do I do next?
+Example Creative (scores 9+)
+पूरे महीने का पैसा क्यों?
+घर का नेट अब रिचार्ज पर
+1 दिन  |  7 दिन  |  14 दिन
+जितने दिन ज़रूरत, उतने दिन रिचार्ज
+Book Karein  [Play Store]
+Wiom — Recharge Wala Ghar ka Net
+Wiom Comms AI  •  Internal Use Only  •  2026

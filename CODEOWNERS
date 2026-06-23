@@ -1,0 +1,56 @@
+# Wiom Maker-Checker — CODEOWNERS
+#
+# Maps each repo path to the owner whose review is REQUIRED before a change merges.
+# This is the guardrail that makes "who can edit what" real.
+#
+# IMPORTANT
+#  1. Handles below are real (@nikhilkajaria, @shivakimothi-design). Karishni's handle is
+#     @karishnipuri-star — she curates /learnings/ (open, no required owner), so she is not
+#     listed as a required reviewer here. Make sure every listed owner has repo access —
+#     otherwise their required review can never be satisfied.
+#  2. CODEOWNERS only ENFORCES anything when branch protection is ON:
+#     Settings -> Branches -> protect `main` -> "Require a pull request before merging"
+#     + "Require review from Code Owners" + disable direct pushes.
+#     Without that, this file is only a notification list. (See GOVERNANCE.md.)
+#  3. CODEOWNERS requires at least ONE listed owner to approve. To force BOTH leads on
+#     the constitution, also set branch protection "Required approvals = 2" and ensure
+#     both are code owners.
+#
+# Last matching pattern wins for a given file.
+
+# ---- Default: both leads are notified on anything not matched below ----
+*                              @nikhilkajaria @shivakimothi-design
+
+# ---- Messaging thesis (Shiva) ----
+/messaging/                    @shivakimothi-design
+# Explore sandbox: open contribution, no required owner.
+# (Promoting an experiment INTO the thesis edits /messaging/thesis/, which IS gated above.)
+/messaging/explore/
+
+# ---- Wrapper framework (Nikhil) ----
+/wrapper/                      @nikhilkajaria
+
+# ---- Evaluation logic = the RULES (Shiva). Agent CODE is shared engineering ----
+/evaluation/                   @shivakimothi-design
+/evaluation/agents/            @nikhilkajaria @shivakimothi-design
+
+# ---- Product briefs (Nikhil) ----
+/briefs/                       @nikhilkajaria
+
+# ---- Creative library (shared: either lead can approve) ----
+/creative-library/             @shivakimothi-design @nikhilkajaria
+
+# ---- Constitution: BOTH leads must approve (needs the 2-approval branch rule above) ----
+/constitution/                 @shivakimothi-design @nikhilkajaria
+
+# ---- Learnings: open posting, no required owner ----
+# Anyone may post a learning here; rule changes are gated where they land
+# (thesis / wrapper / evaluation), not on this folder.
+/learnings/
+
+# ---- Performance: shared / operational ----
+/performance/                  @nikhilkajaria @shivakimothi-design
+
+# ---- The governance files themselves: both leads ----
+/CODEOWNERS                    @nikhilkajaria @shivakimothi-design
+/GOVERNANCE.md                 @nikhilkajaria @shivakimothi-design
