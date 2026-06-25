@@ -1,0 +1,9 @@
+[
+  {
+    "concept_id": "JUN26-T-020-v1-produced",
+    "format": "static_feed 1x1 (produced asset)",
+    "script_or_copy": "Headline (top, white on dark gradient): 'घर पर हैं ही नहीं,' (Ghar par hain hi nahi,). Sub-line (white on magenta band): 'तो नेट का बिल क्यों भरें?' (Toh net ka bill kyon bharein?). Locked Wiom lockup (bottom, magenta footer): brand mark 'Wiom' + 'रिचार्ज वाला घर का नेट' (Recharge wala ghar ka net) + sub 'जब घर पे हो, तब रिचार्ज' (Jab ghar pe ho, tab recharge — NEED-STATE-SPECIFIC articulation, neither JDRUDN nor generic JZUR) + pink house-with-WiFi icon.",
+    "visual_description": "Outdoor street scene at a residential gated entrance. Real-feeling LMI/middle-class family of 4 preparing to leave for travel: father (foreground left, with a backpack, hand on the gate), mother (in saree, with a rolling suitcase, near a yellow taxi), pre-teen son (loading a duffel bag into the open trunk of an old yellow-and-black taxi), young daughter (with backpack, near the car). Plants/pots near the gate, residential building, street with auto-rickshaws and scooters in background. Lived-in urban Indian register, cheerful departure mood, NOT aspirational. Note vs brief: brief specified 'home router visible and idle inside' as a prop; the produced version does not show an interior router shot — the 'leaving home' cue is carried entirely by the gated-entry + luggage + taxi composition.",
+    "notes": "Produced version of S8 / JUN26-T-020 (Travel/Return static, L2 Blocked-buyer, peer = travelling family). Notable: the lockup carries a NEED-STATE-SPECIFIC anchor ('Jab ghar pe ho, tab recharge') which is neither the locked JDRUDN nor the generic JZUR — a third articulation variant in the wave (S4=JDRUDN, S1/S2/S3/S5=JZUR, S8=need-state custom). Evaluate L2 fit, ghar landing (headline explicitly says 'ghar par hain hi nahi'), and the wave-wide locked-anchor doctrine break."
+  }
+]

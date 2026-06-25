@@ -1,0 +1,9 @@
+[
+  {
+    "concept_id": "JUN26-T-013-v1-produced",
+    "format": "static_feed 1x1 (produced asset)",
+    "script_or_copy": "Headline (top, white on dark gradient): 'जब ज़रूरत रोज़ की नहीं' (Jab zaroorat roz ki nahi). Sub-line (white on magenta band): 'तो पूरे महीने का बिल क्यों?' (Toh poore mahine ka bill kyon?). Locked Wiom lockup (bottom, magenta footer): brand mark 'Wiom' + 'रिचार्ज वाला घर का नेट' (Recharge wala ghar ka net) + sub 'जितनी ज़रूरत, उतना रिचार्ज' (Jitni zaroorat, utna recharge — JZUR, NOT the locked JDRUDN rule) + pink house-with-WiFi icon.",
+    "visual_description": "Outdoor street setting. Real-feeling auto-rickshaw driver (M, ~30s, casual yellow/khaki shirt, real-LMI register) seated on the side step of his auto-rickshaw (visible yellow/green auto cab on the left, including driver-side door and meter area). He is looking down at a smartphone HELD IN HIS HAND, which is the focal prop. Background: blurred street scene — parked car, a couple of pedestrians, brick wall, daylight. No household / interior visible anywhere. Note vs the brief: the brief specified 'at a bus stop or loading up to leave, a small travel bag over the shoulder, glancing at his phone mid-thought' — the produced version uses the auto as the 'often out' cue and omits the travel bag.",
+    "notes": "Produced version of S1 / JUN26-T-013 (Monthly-commitment rejection static, L2 Blocked-buyer, constraint-first, peer = auto driver). Two concerns to weigh: (1) same JDRUDN-absent pattern as S5 (lockup uses JZUR per the S1 brief, but JDRUDN doctrine says verbatim required). (2) Possible elevated mobile-data-product misread risk: the visual centres on a phone-in-hand, the headline/sub-line carry no ghar/category word ('bill' is unqualified), and only the lockup converts to ghar ka net. A scanning viewer might read 'phone + month's bill complaint' as a MOBILE recharge ad before reaching the lockup. Evaluating both."
+  }
+]

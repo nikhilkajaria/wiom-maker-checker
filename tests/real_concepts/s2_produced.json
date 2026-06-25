@@ -1,0 +1,9 @@
+[
+  {
+    "concept_id": "JUN26-T-014-v1-produced",
+    "format": "static_feed 1x1 (produced asset)",
+    "script_or_copy": "Headline (top, white on dark gradient): 'मोबाइल टॉप-अप के खर्चे बचाने हैं?' (Mobile top-up ke kharche bachane hain?). Sub-line (white on magenta band): 'घर का नेट अब रिचार्ज से चलाना है' (Ghar ka net ab recharge se chalana hai). Locked Wiom lockup (bottom, magenta footer): brand mark 'Wiom' + 'रिचार्ज वाला घर का नेट' (Recharge wala ghar ka net) + sub 'जितनी ज़रूरत, उतना रिचार्ज' (Jitni zaroorat, utna recharge — JZUR, NOT JDRUDN) + pink house-with-WiFi icon.",
+    "visual_description": "Indoor home setting (interior wall, chair, soft furnishings visible in soft focus behind). Real-feeling young man (M, mid-late 20s, casual grey tee, real LMI register), seated, looking down at his smartphone with a clearly frustrated/disappointed expression. The phone screen is overlaid with a graphic alert badge: 'Data over ⚠️' (red caution badge). Natural indoor light. Wiom logo pink on magenta footer.",
+    "notes": "Produced version of S2 / JUN26-T-014 (Top-up fatigue static, L3 Workaround-pain, peer = young heavy-phone user). This is the BASE S2 hook ('Mobile top-up' as the problem) — NOT the S2-variant wording probe ('Mobile recharge' for both problem and solve) which the checker previously KILLed. Per Messaging System v1.3, L3 doctrine: pain-first opening, two-step (name pain, then deliver answer), 'net' must be the destination noun never 'recharge' alone. Evaluating: (1) does the explicit ghar-ka-net conversion in the sub-line and indoor home visual neutralise the mobile-data-pain entry, (2) JDRUDN absence (same wave-wide pattern as S1/S5), (3) L3-fit and the destination-noun safety rule."
+  }
+]

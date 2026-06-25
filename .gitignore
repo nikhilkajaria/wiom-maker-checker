@@ -7,3 +7,4 @@ venv/
 logs/*.jsonl
 logs/*.txt
 .DS_Store
+experiments/_latest_sheet_export.xlsx

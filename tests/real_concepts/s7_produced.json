@@ -1,0 +1,9 @@
+[
+  {
+    "concept_id": "JUN26-T-019-v1-produced",
+    "format": "static_feed 1x1 (produced asset)",
+    "script_or_copy": "Headline (top, white on dark gradient): 'हर हफ़्ते सिर्फ़ 3 दिन घर से काम?' (Har hafte sirf 3 din ghar se kaam?). Sub-line (white on magenta band): 'तो पूरे महीने का नेट क्यों?' (Toh poore mahine ka net kyon?). Locked Wiom lockup (bottom, magenta footer): brand mark 'Wiom' + 'रिचार्ज वाला घर का नेट' (Recharge wala ghar ka net) + sub 'जितनी ज़रूरत, उतना रिचार्ज' (Jitni zaroorat, utna recharge — JZUR, NOT JDRUDN) + pink house-with-WiFi icon.",
+    "visual_description": "Indoor home-office setup. Real-feeling young man (M, late 20s-early 30s, brown striped tee, headphones on) seated in a wooden chair at a small home desk, mid video-call on a laptop (Google-Meet-style grid of 6 participants visible on the laptop screen). Desk props: water bottle, mug, mobile phone face-down, scattered notes. Wall behind has sticky notes / Post-its in pink and yellow (workspace cues). Window with white blinds providing natural light on the left. Bed with patterned cover partially visible on the far left (suggesting the home office is set up in a bedroom — typical LMI/middle-class hybrid-work reality). Slightly more polished/clean than the other statics — borderline-but-not-quite aspirational; watch for register drift. Note vs brief: brief specified a 'week strip with only 3 days marked ghar se kaam' visual — the produced version does NOT show this calendar/week-strip prop; the '3 days' specificity is carried only by the headline copy.",
+    "notes": "Produced version of S7 / JUN26-T-019 (WFH part-week static, L2 Blocked-buyer, short-duration WFH sub-case, peer = hybrid worker). Evaluate L2 fit, ghar anchor (headline says 'ghar se kaam', visual is clearly indoor home-office), missing week-calendar prop, mild aspirational/polished register risk, and the wave-wide JDRUDN-absent pattern."
+  }
+]

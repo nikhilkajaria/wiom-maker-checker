@@ -1,0 +1,23 @@
+[
+  {
+    "concept_id": "F2-topup-voxpop",
+    "format": "video_15s vox pop (live)",
+    "script_or_copy": "0-2s [Interviewer VO]: 'Mobile data hafte mein kitni baar khatam ho jata hai?' | Respondent A (M, 20s-30s, phone showing low-data warning): 'Do-teen baar to ho hi jaata hai. Hotspot lagao toh aur jaldi khatam.' | 4-7s [Interviewer VO]: 'Toh ghar par net kyun nahi lagwate?' | 7-10s Respondent B (F, 30s): 'Pehle bhi socha tha — par mahine bhar ka bill ek saath bharo, woh thoda bhaari padta hai.' | 10-13s [Interviewer VO]: 'Kya aapne Recharge waale ghar ke net ke baare mein suna hai? 1 din ho ya 1 mahine, jitni zaroorat sirf utna recharge.' | 13-15s End slate VO: 'Jitne din recharge, utne din net.'",
+    "visual_description": "Street vox pop, two real respondents in different real settings. Respondent A shown with phone displaying a low-DATA warning at open. Visual stays on respondents; interviewer never on camera. End slate: 'Jitne din recharge, utne din net' / 'Chale aapke hisaab se' / 'Wiom — Recharge-wala Ghar ka Net'.",
+    "notes": "Opening constraint is mobile-data-shaped (data exhaustion, hotspot). Doc self-scored misread risk Low-Medium. Evaluating whether the mobile-data opening + 'recharge' solve risks the primary mobile-data-product misread."
+  },
+  {
+    "concept_id": "STATIC2-topup-variant",
+    "format": "static_feed (single 1x1)",
+    "script_or_copy": "Hook (headline): 'Mobile recharge ke kharche bachane hain? Ghar ka net ab recharge se chalana hai.' Locked Wiom lockup on frame (logo + tagline 'Recharge-wala Ghar ka Net').",
+    "visual_description": "Young earner, 20s-30s, heavy phone user. Holding his phone with a 'data over / recharge' warning filling the screen, scroll frozen mid-action, visibly irritated. Single frame, sound-off, no VO, no arc. Locked Wiom lockup (logo + tagline) on frame.",
+    "notes": "Deliberate category-confusion probe per the static test design: uses 'recharge' for BOTH the problem (mobile) and the solve (home-net). Single frame, no arc to correct a misread. Evaluating G1 'reads recharge-wala-ghar-ka-net not mobile-recharge at a glance' and misread risk."
+  },
+  {
+    "concept_id": "F4-cashflow-peer",
+    "format": "video_15s comparison frame (green screen), peer",
+    "script_or_copy": "0-3s Peer (M, 30-35): 'Dukaan se roz ki kamai alag hoti hai — kabhi 100 rupay, kabhi 1000, kabhi kuch bhi nahi.' | 3-6s graphic monthly calendar with bill date: 'Lekin ghar ke net ka mahine ka bill toh taareekh dekh ke hi aata hai. Paise nahi hain toh kya karein?' | 6-10s recharge unit options (1/7/14/28 din): 'Isliye maine recharge wala ghar ka net lagwaya. Apne hisaab se recharge karo — bilkul mobile ki tarah.' | 10-13s: 'Fixed bill ka chakkar hi khatam.' | 13-15s End slate VO: 'Jitne din recharge, utne din net.'",
+    "visual_description": "Single peer actor, green screen with home-suggestive composited backdrop. Graphics: monthly calendar with bill date circled, then recharge unit options (1 din, 7 din, 14 din, 28 din). End slate: 'Jitne din recharge, utne din net' / 'Chale aapke hisaab se' / 'Wiom — Recharge-wala Ghar ka Net'.",
+    "notes": "Contains 'bilkul mobile ki tarah' at 6-10s. Doc self-scored G2 PASS (mobile used as bridge for the recharge MECHANIC, not as Wiom identity). Evaluating whether 'bilkul mobile ki tarah' is a clean capture-bridge or risks identity/mobile-data drift."
+  }
+]
