@@ -108,7 +108,7 @@
     "next_wave_implications": ""
   },
   {
-    "brief_id": "BRIEF-INH-20260617",
+    "brief_id": "BRIEF-INH-20260616",
     "wave": "Jun26",
     "brief_name": "In-house June Creative Tests (Comparison / Duration / AI-vs-Live)",
     "objective": "Three in-house creative tests off the June L1/L2 work: T-LRN-04 comparison statics (vs monthly broadband), T-LRN-05 audience-matched duration-framing packages on the T-043 base, T-AILIVE-02 AI render of Script 4 vs the live master.",
@@ -159,6 +159,24 @@
     "supporting_docs": "Companion deck: shivakimothi-design.github.io/wiom-l1-creative-learnings",
     "status": "Active",
     "wave_summary_notes": "Builds on T-043 (ishaaron winner) + T-046 (carousel). Test-1 is an offline comprehension panel (assets separate, not registered). RFM story code added v2.0 for the category-reframe carousel.",
+    "next_wave_implications": ""
+  },
+  {
+    "brief_id": "BRIEF-INH-20260615",
+    "wave": "Jun26",
+    "brief_name": "In-house Street-Style Testimonial (RWGKN, L1/L2/L3)",
+    "objective": "Brief 3 in-house street-style neighbour testimonials (RWGKN): L1 marzi/flex, L2 zaroorat/MCR, L3 whole-family/multi. Shared format, middle explainer beat, and fixed Book Now end slate; layer-specific open + payoff. Hindi, RAW, ~25s.",
+    "creative_plan_summary": "3 testimonial videos (L1/L2/L3) x video ratios (1x1, 9x16, 16x9). Replicates a proven street-testimonial reference format. Directional learning (T-LRN-09).",
+    "variables_tested": "None held - street-testimonial format replication across layers (directional, T-LRN-09)",
+    "audience_layers_covered": "",
+    "concepts_count": "",
+    "tests_count": "",
+    "brief_author": "",
+    "brief_date": "",
+    "brief_drive_link": "",
+    "supporting_docs": "",
+    "status": "",
+    "wave_summary_notes": "",
     "next_wave_implications": ""
   }
 ]
