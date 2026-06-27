@@ -702,5 +702,27 @@
     "data_window": "",
     "logged_date": "",
     "contamination_flags": ""
+  },
+  {
+    "test_id": "T-LANG-01",
+    "test_name": "L3 AI testimonial - dialect localization (Hindi vs Western-UP vs Awadhi)",
+    "hypothesis": "An in-belt dialect render (Western-UP / Awadhi) out-converts generic North Hindi for L3 in its own geo belt, at the same creative concept.",
+    "variable_tested": "Language / dialect (North Hindi vs Western-UP Braj-Khari vs Awadhi)",
+    "controls_held_constant": "Same concept held: L3.L3-MULTI.PEER.TST.AI.CF, same story arc + fixed end slate, AI production",
+    "concepts_in_test": "JUN26-C-079 (Hindi), JUN26-C-080 (Western-UP), JUN26-C-081 (Awadhi)",
+    "layer_scope": "",
+    "primary_metric": "",
+    "secondary_metrics": "",
+    "decision_rule": "",
+    "cohort_split": "",
+    "min_sample_size": "",
+    "time_window": "",
+    "test_owner": "",
+    "result_status": "",
+    "result_verdict": "",
+    "result_detail": "",
+    "data_window": "",
+    "logged_date": "",
+    "contamination_flags": ""
   }
 ]

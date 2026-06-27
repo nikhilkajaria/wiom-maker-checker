@@ -31,7 +31,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-002",
@@ -65,7 +66,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-003",
@@ -99,7 +101,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-004",
@@ -133,7 +136,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-005",
@@ -167,7 +171,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-006",
@@ -201,7 +206,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-007",
@@ -235,7 +241,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-008",
@@ -269,7 +276,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-009",
@@ -303,7 +311,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-010",
@@ -337,7 +346,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-011",
@@ -371,7 +381,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-012",
@@ -405,7 +416,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-013",
@@ -439,7 +451,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-014",
@@ -473,7 +486,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-022",
@@ -507,7 +521,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-015",
@@ -541,7 +556,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-021",
@@ -575,7 +591,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-016",
@@ -609,7 +626,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-017",
@@ -643,7 +661,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-018",
@@ -677,7 +696,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-019",
@@ -711,7 +731,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-020",
@@ -745,7 +766,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-C-030",
@@ -779,7 +801,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-C-031",
@@ -813,7 +836,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-C-032",
@@ -847,7 +871,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-C-033",
@@ -881,7 +906,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-C-034",
@@ -915,7 +941,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-C-035",
@@ -949,7 +976,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-C-036",
@@ -983,7 +1011,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-C-037",
@@ -1017,7 +1046,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-C-038",
@@ -1051,7 +1081,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-C-039",
@@ -1085,7 +1116,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-C-040",
@@ -1119,7 +1151,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-041",
@@ -1153,7 +1186,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-042",
@@ -1187,7 +1221,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-043",
@@ -1221,7 +1256,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-044",
@@ -1255,7 +1291,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-045",
@@ -1289,7 +1326,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-046",
@@ -1323,7 +1361,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-047",
@@ -1357,7 +1396,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-048",
@@ -1391,7 +1431,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-049",
@@ -1425,7 +1466,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-050",
@@ -1459,7 +1501,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-R-051",
@@ -1493,7 +1536,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-R-052",
@@ -1527,7 +1571,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-R-053",
@@ -1561,7 +1606,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-R-054",
@@ -1595,7 +1641,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-R-055",
@@ -1629,7 +1676,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-R-056",
@@ -1663,7 +1711,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-R-057",
@@ -1697,7 +1746,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-R-058",
@@ -1731,7 +1781,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-R-059",
@@ -1765,7 +1816,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-R-060",
@@ -1799,7 +1851,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-061",
@@ -1833,7 +1886,8 @@
     "gate_g2": "PASS",
     "gate_reason": "Human override (Nikhil, 2026-06-26): JDRUDN footer not mandatory for statics that communicate the rule/benefit through copy; variations allowed. Pending Shiva rule update.",
     "gate_date": "2026-06-26",
-    "gate_run_ref": "a283052"
+    "gate_run_ref": "a283052",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-062",
@@ -1867,7 +1921,8 @@
     "gate_g2": "PASS",
     "gate_reason": "Clean PASS. Adding JDRUDN as a sub-tag recommended to lock the anchor.",
     "gate_date": "2026-06-26",
-    "gate_run_ref": "a283052"
+    "gate_run_ref": "a283052",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-063",
@@ -1901,7 +1956,8 @@
     "gate_g2": "PASS",
     "gate_reason": "Human override (Nikhil, 2026-06-26): constraint-first/MCR framing (leading on the monthly-commitment constraint) is the valid need-state, not broadband contamination - generic comparison, no named competitor, no price/speed. JDRUDN footer not mandatory for statics; WiFi glyph is the locked category depiction. Pending Shiva rule update.",
     "gate_date": "2026-06-26",
-    "gate_run_ref": "a283052"
+    "gate_run_ref": "a283052",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-064",
@@ -1935,7 +1991,8 @@
     "gate_g2": "PASS",
     "gate_reason": "Human override (Nikhil, 2026-06-26): JDRUDN footer not mandatory for statics communicating the rule via copy; WiFi glyph is the locked category depiction (not the banned word). Pending Shiva rule update.",
     "gate_date": "2026-06-26",
-    "gate_run_ref": "a283052"
+    "gate_run_ref": "a283052",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-065",
@@ -1969,7 +2026,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-066",
@@ -2003,7 +2061,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-067",
@@ -2037,7 +2096,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-068",
@@ -2071,7 +2131,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-C-069",
@@ -2105,7 +2166,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-H-001",
@@ -2139,7 +2201,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-H-002",
@@ -2173,7 +2236,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-070",
@@ -2207,7 +2271,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-071",
@@ -2241,7 +2306,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-T-072",
@@ -2275,7 +2341,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-C-073",
@@ -2309,7 +2376,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-H-003",
@@ -2343,7 +2411,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-B-001",
@@ -2377,7 +2446,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-B-002",
@@ -2411,7 +2481,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-B-003",
@@ -2445,7 +2516,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-B-004",
@@ -2479,7 +2551,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-B-005",
@@ -2513,7 +2586,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-B-006",
@@ -2547,7 +2621,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-B-007",
@@ -2581,7 +2656,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-C-074",
@@ -2615,7 +2691,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-H-004",
@@ -2649,7 +2726,8 @@
     "gate_g2": "",
     "gate_reason": "",
     "gate_date": "",
-    "gate_run_ref": ""
+    "gate_run_ref": "",
+    "language": ""
   },
   {
     "concept_id": "JUN26-C-077",
@@ -2683,7 +2761,8 @@
     "gate_g2": "PASS",
     "gate_reason": "Clean PASS (G1+G2). Body lands ghar anchor + recharge logic; recommend adding JDRUDN verbatim to end slate to lock the anchor.",
     "gate_date": "2026-06-26",
-    "gate_run_ref": "a283052"
+    "gate_run_ref": "a283052",
+    "language": ""
   },
   {
     "concept_id": "JUN26-C-075",
@@ -2717,7 +2796,8 @@
     "gate_g2": "PASS",
     "gate_reason": "Clean PASS (G1+G2). Ghar anchor + recharge logic land; JDRUDN verbatim on the fixed end slate.",
     "gate_date": "2026-06-26",
-    "gate_run_ref": "a283052"
+    "gate_run_ref": "a283052",
+    "language": ""
   },
   {
     "concept_id": "JUN26-C-076",
@@ -2751,7 +2831,8 @@
     "gate_g2": "PASS",
     "gate_reason": "Clean PASS (G1+G2). Ghar anchor + recharge logic land; JDRUDN verbatim on the fixed end slate.",
     "gate_date": "2026-06-26",
-    "gate_run_ref": "a283052"
+    "gate_run_ref": "a283052",
+    "language": ""
   },
   {
     "concept_id": "JUN26-C-078",
@@ -2785,6 +2866,112 @@
     "gate_g2": "PASS",
     "gate_reason": "Clean PASS (G1+G2). Ghar anchor explicit, recharge-shape via duration menu, JDRUDN on the locked end slate.",
     "gate_date": "2026-06-26",
-    "gate_run_ref": "a283052"
+    "gate_run_ref": "a283052",
+    "language": ""
+  },
+  {
+    "concept_id": "JUN26-C-079",
+    "brief_id": "BRIEF-OBVAI-20260615",
+    "brief_#": "OBVAI L3 Testimonial A (Hindi)",
+    "description": "Obvious AI L3 street testimonial (RWGKN) - North Hindi (Version A). AI-rendered; mobile-data/hotspot pain -> word-of-mouth discovery -> RWGKN payoff; fixed White Phone end slate w/ JDRUDN.",
+    "audience_layer": "L3",
+    "need_state": "L3-MULTI",
+    "sd_subcase": "",
+    "story_structure": "CF",
+    "protagonist": "PEER",
+    "format": "TST",
+    "production_method": "AI",
+    "visual_register": "RAW",
+    "category_bridge": "MD",
+    "cta": "BOOKNOW",
+    "test_ids_assigned": "T-LANG-01",
+    "production_owner": "Obvious AI",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1b39VN8yqvnedfHCf8AR1n8sVGpP3Z_C6",
+    "comprehension_test_result": "",
+    "decision": "",
+    "decision_metrics": "",
+    "decision_date": "",
+    "learnings": "",
+    "next_steps": "",
+    "lineage": "Dialect-localization set (T-LANG-01) with C-080, C-081; AI sibling of C-077 (LIV).",
+    "status_note": "AI render; 9x16 + 1x1 (16x9 n/a for AI video per v2.2). Files renamed local, pending Drive upload.",
+    "production_brief_url": "https://docs.google.com/document/d/1xrxdxARfZJMQSUypq6UUDEieZmrVGhspemPuhMYCZMo/edit",
+    "gate_overall": "PASS",
+    "gate_g1": "PASS",
+    "gate_g2": "PASS",
+    "gate_reason": "Clean PASS (G1+G2). L3 pain -> RWGKN payoff, JDRUDN on fixed end slate, AI face reads peer. Covers all 3 dialect versions (shared arc).",
+    "gate_date": "2026-06-27",
+    "gate_run_ref": "48d4194",
+    "language": "HI"
+  },
+  {
+    "concept_id": "JUN26-C-080",
+    "brief_id": "BRIEF-OBVAI-20260615",
+    "brief_#": "OBVAI L3 Testimonial B (Western-UP)",
+    "description": "Obvious AI L3 street testimonial (RWGKN) - Western UP / Braj-Khari Boli (Version B, priority). AI-rendered; same arc as C-079. Master is 35s (accepted).",
+    "audience_layer": "L3",
+    "need_state": "L3-MULTI",
+    "sd_subcase": "",
+    "story_structure": "CF",
+    "protagonist": "PEER",
+    "format": "TST",
+    "production_method": "AI",
+    "visual_register": "RAW",
+    "category_bridge": "MD",
+    "cta": "BOOKNOW",
+    "test_ids_assigned": "T-LANG-01",
+    "production_owner": "Obvious AI",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1UlUTsQiXCgXkmPTutbO2Fn6LPEfNSGU7",
+    "comprehension_test_result": "",
+    "decision": "",
+    "decision_metrics": "",
+    "decision_date": "",
+    "learnings": "",
+    "next_steps": "",
+    "lineage": "Dialect-localization set (T-LANG-01) with C-079, C-081.",
+    "status_note": "AI render; 9x16 (35s, accepted) + 1x1 (16x9 n/a for AI). Files renamed local, pending Drive upload.",
+    "production_brief_url": "https://docs.google.com/document/d/1xrxdxARfZJMQSUypq6UUDEieZmrVGhspemPuhMYCZMo/edit",
+    "gate_overall": "PASS",
+    "gate_g1": "PASS",
+    "gate_g2": "PASS",
+    "gate_reason": "Clean PASS (G1+G2). Shared L3 testimonial arc (see C-079).",
+    "gate_date": "2026-06-27",
+    "gate_run_ref": "48d4194",
+    "language": "WUP"
+  },
+  {
+    "concept_id": "JUN26-C-081",
+    "brief_id": "BRIEF-OBVAI-20260615",
+    "brief_#": "OBVAI L3 Testimonial C (Awadhi)",
+    "description": "Obvious AI L3 street testimonial (RWGKN) - Awadhi / Eastern UP (Version C, secondary). AI-rendered; same arc. NOT YET PRODUCED.",
+    "audience_layer": "L3",
+    "need_state": "L3-MULTI",
+    "sd_subcase": "",
+    "story_structure": "CF",
+    "protagonist": "PEER",
+    "format": "TST",
+    "production_method": "AI",
+    "visual_register": "RAW",
+    "category_bridge": "MD",
+    "cta": "BOOKNOW",
+    "test_ids_assigned": "T-LANG-01",
+    "production_owner": "Obvious AI",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1WnRycHD1X3kH4aJFKRIROGBdryObqfDS",
+    "comprehension_test_result": "",
+    "decision": "",
+    "decision_metrics": "",
+    "decision_date": "",
+    "learnings": "",
+    "next_steps": "",
+    "lineage": "Dialect-localization set (T-LANG-01) with C-079, C-080.",
+    "status_note": "Awaiting production (Awadhi). Folder ready for upload.",
+    "production_brief_url": "https://docs.google.com/document/d/1xrxdxARfZJMQSUypq6UUDEieZmrVGhspemPuhMYCZMo/edit",
+    "gate_overall": "PASS",
+    "gate_g1": "PASS",
+    "gate_g2": "PASS",
+    "gate_reason": "Clean PASS (G1+G2). Concept-level (shared arc, see C-079); asset pending production.",
+    "gate_date": "2026-06-27",
+    "gate_run_ref": "48d4194",
+    "language": "AWA"
   }
 ]
