@@ -29,6 +29,13 @@ image. A static **passes the gate only if both hold:**
   **destination noun lands on "net / ghar ka net," never "recharge" as the final word** · a
   comparison static lands on **Wiom's category** (the A5 carve-out), not "a different WiFi."
 
+> **v1.1 clarifications — apply on the rendered art (stops two common false-positives):**
+> - **WiFi *symbol* is allowed & encouraged** — it's the category launchpad; only the *word* "WiFi"
+>   used as Wiom's identity is banned. **Never flag the WiFi glyph as contamination.**
+> - **Ghar anchor** is satisfied by **copy / home glyph / home scene / audio** — a photographic
+>   home scene is **not** required (B&W / minimalist statics land it via copy + glyph). Fails only
+>   when "home" is purely *implied*.
+
 **Layer:** these statics are **L1** (capture-bridge, WiFi-as-launchpad). Apply the **dual-persona
 range test** (would it also *not confuse* an L2 viewer?). **No L3 hooks** this round.
 
@@ -79,6 +86,22 @@ Weighted score from the source framework (Section C):
 | Thumb-Stop | 10% |
 
 `Score = 0.15·Aud + 0.30·Mot + 0.20·Prom + 0.15·Mech + 0.10·CTA + 0.10·ThumbStop`
+
+### Dimension clarifications (v1.1)
+
+**Step 3 — renamed "Product Promise" → "Category clarity (what-is-it)."** This step tests whether a
+viewer can instantly grasp **what Wiom is**, on-category, without banned words — **not** an "outcome."
+The *benefit / why-care* lives in **Step 2 (Motivation)**; keep the two distinct. Test: *"can a user
+answer 'Yeh kya hai?' in ~2 sec?"* Valid answers include the **category label** ("Recharge-wala ghar
+ka net") **or the mechanic line** ("Jitne din recharge, utne din net"). **Drop the rigid "≤5 words"** —
+favour *instantly graspable & on-category* over a literal word count.
+
+**Step 6 — "real-home visual" is a *conditional* thumb-stop, not a peer of the hard stops.** Named
+pain, belief challenge, curiosity gap, and contrast are active attention-grabs. A real-home visual
+stops the scroll only **softly**, via **self-recognition** ("yeh mere jaisa hai") as a pattern-interrupt
+against glossy ads — and only for the exact target. On its own it does its real work on
+**Motivation / credibility**, not thumb-stop. Score it as a **soft/conditional** driver; do not treat a
+real home as a strong stop by itself.
 
 ---
 

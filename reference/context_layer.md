@@ -96,7 +96,7 @@ G1 must therefore not be tuned to demand that a short creative fully resolve com
 
 **Passes only if all three hold:**
 
-1. **Ghar anchor present.** Household / whole-home is explicit or unmistakable — in visual or audio. Non-optional.
+1. **Ghar anchor present.** Household / whole-home is explicit or unmistakable — in visual or audio. Non-optional. **(v1.1)** Satisfiable by **copy ("ghar ka net" stated), a home glyph, a home scene, or audio** — a photographic home scene is **not** required (B&W / minimalist statics land it via copy + a home glyph). Fails only when "home" is left purely *implied*.
 2. **Recharge-shape clear.** Pay-as-you-go / recharge behavior is conveyed, not buried.
 3. **No frame drift.** The creative does not land as "cheap WiFi," "flexible mobile data," or "budget broadband."
 
@@ -116,7 +116,7 @@ G1 must therefore not be tuned to demand that a short creative fully resolve com
 
 **Fail test:** "Does the creative invite the user to compare Wiom against Jio/Airtel/broadband on their terms? If a kill-list word defines what Wiom IS (rather than what the user was looking for), it fails. If it only names the user's starting point and the creative then converts to RWGKN, it passes."
 
-**Common error to avoid:** Do NOT blanket-fail any creative containing "WiFi." Over-rejection kills legitimate capture-bridge creative. Check the *role* the word plays — bridge (PASS) vs identity (FAIL).
+**Common error to avoid:** Do NOT blanket-fail any creative containing "WiFi." Over-rejection kills legitimate capture-bridge creative. Check the *role* the word plays — bridge (PASS) vs identity (FAIL). **(v1.1) WiFi *symbol* ≠ WiFi *word*:** the WiFi signal **glyph**, as a visual category cue, is **allowed and encouraged** (the launchpad — category comprehension breaks without it). Only the **word** "WiFi" as Wiom's identity is banned. Never flag the glyph as contamination.
 
 ## 8. Audience layers (Messaging System v1.3 — LOCKED)
 
