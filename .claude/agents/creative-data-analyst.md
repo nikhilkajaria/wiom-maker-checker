@@ -43,8 +43,18 @@ on the creatives you point at.
 5. **Divergence pairs** — per pool, the pair(s) to content-read, with the
    specific question the human should answer while looking at them
    (e.g. "same hook rate, 2x CVR gap — what expectation does A set after
-   second 3 that B doesn't?").
-6. **Candidate learnings** — clearly marked PROPOSED / UNCONFIRMED.
+   second 3 that B doesn't?"). Label static pairs "promise-contrast"
+   (CTR is their only attention signal and is usually near-tied, so the
+   gap lives in the expectation the image sets); video pairs are true
+   attention × honesty contrasts.
+6. **Candidate learnings** — clearly marked PROPOSED / UNCONFIRMED, and
+   ALWAYS grouped by campaign family with the family's optimization
+   objective stated first (BFC-VOLUME → app installs; RETARGETING →
+   sales/bookings; AWARENESS → ThruPlay/reach; new families → ask).
+   Install lenses read at face value only in install-optimized families.
+   A learning transfers across families as a hypothesis only — it must
+   re-prove in the destination family's numbers. Never present a
+   flat cross-campaign learnings list.
 7. **Questions for the human** — everything from data.json
    `questions_for_human`, plus anything you noticed.
 8. **Below-floor / inactive summary** — what was seen but not judged.
