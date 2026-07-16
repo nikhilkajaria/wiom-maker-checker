@@ -198,9 +198,14 @@ def build(dates, records, master, questions):
                 questions.add(f"Cannot determine format for '{ad_name}' "
                               "(no master-export entry, no video signals, "
                               "<1k impressions) — static or video?")
+        adset_tokens = (ad_set or "").split("_")
         r = {
             "family": campaign_family(campaign, questions),
             "geo": adset_geo(ad_set, questions),
+            # subgeo token: ALL = broad targeting; a city name = city-targeted.
+            # Only broad rows are ranked (same targeting for every creative);
+            # city rows are listed as targeting comparisons.
+            "subgeo": adset_tokens[1].upper() if len(adset_tokens) > 1 else "",
             "format": fmt,
             "campaign": campaign, "ad_set": ad_set, "ad": ad_name,
             "concept": ad_name.split("_")[0],
@@ -252,8 +257,13 @@ def score_pools(rows, window_days, questions):
     excluded = {"below_floor": 0, "inactive": 0}
     for r in rows:
         floor = CONFIG["floor_per_14d"].get(r["geo"], CONFIG["floor_unknown_geo"])
-        r["qualified"] = r["active"] and r["spend"] >= floor * floor_scale
-        if not r["active"]:
+        broad = r.get("subgeo") == "ALL"
+        r["qualified"] = broad and r["active"] and r["spend"] >= floor * floor_scale
+        if not broad:
+            r["city_targeted"] = True
+            excluded["city_adset_not_ranked"] = excluded.get(
+                "city_adset_not_ranked", 0) + 1
+        elif not r["active"]:
             excluded["inactive"] += 1
         elif not r["qualified"]:
             excluded["below_floor"] += 1

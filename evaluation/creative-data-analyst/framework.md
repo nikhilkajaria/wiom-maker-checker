@@ -24,7 +24,12 @@ A pool = **campaign family × geography × format**, then two filters:
 | 2. Geography | Delhi / Bharat / Mumbai (from ad-set prefix) | CPMs and audiences differ ~3× |
 | 3. Spend floor | ₹5,000 (Delhi/Mumbai), ₹1,500 (Bharat) per 14 days, scaled to window; below floor = listed, never ranked | Rates on tiny spend are noise |
 | 4. Format | Statics and Videos are separate pools, always | Different metrics exist, different jobs |
+| 5. Ad set | Only the shared broad ad set (subgeo = ALL) is ranked; city-targeted ad sets are listed separately as targeting comparisons, never ranked | One campaign+geo can hold several ad sets with different targeting — and the same creative converts clicks ~half as well in city-targeted ad sets (6/6 films, Jul 2026), so mixing ad sets contaminates creative rankings |
 | + Active | Spend in the window's last 3 days | Paused ads are history, not options |
+
+Data freshness rule: installs keep being matched to ads for up to 14 days,
+so the same window's numbers shift between pulls. State the pull date on
+every report; a learning is only kept if it survives a re-pull.
 
 Default window: **last 14 completed days**, always split **first-7 vs
 last-7** for the fatigue check. Custom windows allowed (pin to campaign
