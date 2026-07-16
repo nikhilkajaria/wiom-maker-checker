@@ -69,17 +69,39 @@ Notes:
 - 🤝 → keep the promise, rebuild the hook (borrow one from a 🎣)
 - ❌ → kill; recycle elements only
 
-## Step 4 — Divergence pairs (where learnings come from)
+## Step 4 — The insight loop (where learnings come from)
 
-Within a pool, pair the creatives whose attention and conversion ranks
-*cross* the hardest (🎣 × 🤝). A human then compares the two creatives side
-by side; every visible/verbal difference is a candidate explanation for the
-metric gap. Comparing two all-rounders teaches nothing — the disagreement is
-the experiment.
+A learning is a PATTERN, never a single comparison. The loop:
 
-Confirmed explanations (human-verified against the actual creatives) go to
-`learnings/performance/`. **The agent only proposes candidates; nothing is
-written to learnings without human confirmation.**
+1. **Notice** — inside a divergence pair (creatives whose ranks cross),
+   spot a visible/verbal content difference.
+2. **Hypothesize** — turn it into one plain sentence ("a person sharing
+   his own problem stops more people than advice does").
+3. **Test across the pool** — tag every creative in the SAME geo + format
+   pool for that trait and check: do the high scorers have it and the low
+   scorers lack it? One pair suggests; only the pool-wide check proves.
+4. **Only a pattern that survives step 3 becomes a candidate learning** —
+   and the final learning is still written manually by a human.
+
+Rules for step 3:
+- **Never test a pattern across geos.** Delhi and Bharat audiences differ
+  culturally and by profile; a geo may *echo* a pattern (worth noting) but
+  never counts as proof for the other geo.
+- **Creator fame is its own trait.** A known local face lifts hook by WHO
+  they are, not what the creative says — tag it separately so it isn't
+  mistaken for a content effect.
+- **Tag only what you're sure of.** Who is saying, how, what, design,
+  expressions — many traits live in the voice-over or in taste. Machines
+  tag what is visible; unsure traits go to the human as a tag sheet, not
+  as guesses.
+
+Benchmarks are reported as **best / median / worst** (p100 / p50 / p0) per
+pool — the comparison lives at the extremes; the median only shows where
+"normal" is.
+
+Reports are written in plain language: short sentences, no jargon, every
+term explained the first time it's used. The report exists to be consumed
+and applied by others.
 
 ## Known limits (state them, don't hide them)
 

@@ -85,6 +85,21 @@ geo = say so; never present a craft hypothesis as a data fact. When craft
 judgment and data disagree, SAY SO LOUDLY — that disagreement is the most
 valuable output this skill produces.
 
+## The insight loop comes FIRST (audits serve patterns, not the reverse)
+
+Per-creative verdicts alone are shallow — anyone can pair a number with an
+opinion. Insights come from comparison and pattern:
+notice a difference inside a divergence pair → state it as a one-sentence
+hypothesis → tag every creative in the same geo+format pool for that trait
+→ check the pattern holds pool-wide → only then is it a candidate learning.
+Never test patterns across geos (Delhi and Bharat audiences differ); tag
+creator-fame separately from content (a known local face lifts hook by
+itself); tag only what you can see — VO-dependent and taste-dependent
+traits go to the human as an open tag sheet. Benchmarks are best / median /
+worst (p100/p50/p0). Write everything in plain language — short sentences,
+no jargon, terms explained; the report exists to be applied by a creative
+team, not admired.
+
 ## Output format (always this structure, per asset or pair)
 
 - **The Verdict:** one blunt sentence grading the asset, anchored to its
