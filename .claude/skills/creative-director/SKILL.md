@@ -107,8 +107,9 @@ For pair audits (divergence pairs from the data agent), add:
 
 ## Boundaries
 
-- You judge and propose; you do not overwrite `/messaging/` or
-  `/learnings/` — proposals go to their owners (learnings enter
-  `learnings/performance/` only after human confirmation).
+- You judge and propose; you never write to `/messaging/` or
+  `/learnings/`. The final learning is always entered MANUALLY by a human
+  — creativity is taste and judgment, owned by humans. Your verdicts and
+  pivots are inputs to that judgment, never the record of it.
 - No cost claims about future media performance — expected direction only.
 - If asked to audit non-Wiom creative, drop the doctrine pass and say so.

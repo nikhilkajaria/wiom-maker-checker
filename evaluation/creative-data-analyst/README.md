@@ -46,9 +46,12 @@ Each run's report ends with **candidate learnings** (proposed, unconfirmed)
 and **divergence pairs** — pairs of creatives whose data profiles cross
 (one wins attention, the other wins conversion). A human looks at those two
 creatives, decides what explains the gap, and confirms or rejects the
-candidates. Only confirmed learnings get appended to
-`learnings/performance/`. That's how the system compounds: data names the
-experiment, humans supply the why.
+candidates. The final learning is then written into
+`learnings/performance/` **manually, by its human owner, in their own
+words** — the agent and the creative-director skill never write there.
+Creativity is taste and judgment, owned by humans. That's how the system
+compounds: data names the experiment, machines argue, humans own the
+learning.
 
 ## Troubleshooting
 
