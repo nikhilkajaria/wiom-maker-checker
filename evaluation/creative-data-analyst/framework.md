@@ -6,6 +6,12 @@ install. Booking (CPBL) and recharge lenses get added once those flows are
 finalised — install-efficiency is NOT the business KPI, it is the furthest
 clean signal available today.*
 
+> **Coordination (two pipelines, one account).** The **install / attention lenses in this
+> framework feed creative-craft learnings and next-wave briefs.** **Booking-based analysis (the
+> CPBL rule pass, winner reviews) owns kill / scale / budget.** Both read the same ad account but
+> answer different questions — so this pipeline **never issues a scale / kill / budget verdict; it
+> advises craft.** Otherwise the two would publish dueling truths on the same creative.
+
 ## Why this exists
 
 Ad metrics are usually read as one leaderboard ("which ad has the best
@@ -66,13 +72,17 @@ Notes:
 | **High attention** | 🏆 All-rounder | 🎣 Clickbait profile |
 | **Low attention** | 🤝 Honest-but-invisible | ❌ Weak |
 
-## Step 3 — Action per quadrant
+## Step 3 — Craft action per quadrant (advisory, not verdicts)
 
-- 🏆 → scale; watch weekly CPI for scale-decay (fatigue flag = 2nd-half CPI
-  >1.3× 1st-half)
-- 🎣 → keep the hook, fix the promise (borrow one from a 🤝)
-- 🤝 → keep the promise, rebuild the hook (borrow one from a 🎣)
-- ❌ → kill; recycle elements only
+> These are **creative-craft inputs**, never scale/budget calls. **Scale / kill / budget stay with the
+> booking-based rule pass** — an install/attention lens can rank a creative *opposite* to its booking
+> outcome (a bottom-CVR static can be a top booking workhorse), so an install-lens "kill" must never execute.
+
+- 🏆 All-rounder → **proven craft — feed its hook + promise into the next brief.** (Watch weekly CPI as a
+  *flag* only: scale-decay = 2nd-half CPI >1.3× 1st-half.)
+- 🎣 Clickbait profile → **keep the hook, rebuild the promise** (borrow one from a 🤝).
+- 🤝 Honest-but-invisible → **keep the promise, rebuild the hook** (borrow one from a 🎣).
+- ❌ Weak → **deprioritize-for-craft; harvest reusable elements only.** (Not a booking "kill" — that is the rule pass's call.)
 
 ## Step 4 — The insight loop (where learnings come from)
 

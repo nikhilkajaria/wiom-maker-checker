@@ -19,8 +19,11 @@ a single-pair observation.*
   (0.51–0.58) throughout — the anchor costs zero clicks.
 - Day-option chips are on ALL the black posters → day options alone don't
   convert; the anchor is the separating element.
-- **Apply:** every install ad carries घर + the product. "Home-ness" check
-  = step one of any new static.
+- **Apply (install-lens scope):** every install ad carries घर + the product. "Home-ness" check
+  = step one of any new static. *Scope caveat — this is an install/attention-CVR learning; it does
+  **not** override booking outcomes. T-083 sits bottom of the CVR table yet is a top booking
+  workhorse (₹1,202 CPBL, 91 bookings in its window) — so treat "say घर" as a craft default, not a
+  kill/scale rule; booking decisions stay with the CPBL rule pass.*
 - Sub-learning (single-variable, both geos): on identical bodies, the
   mechanism-statement headline ("जितनी ज़रूरत, उतना रिचार्ज") out-converts
   the challenge-question ("महीने का बंधन क्यों?") — 11.7 vs 10.8 Delhi,
