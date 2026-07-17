@@ -61,6 +61,10 @@ Any breach = **disqualified regardless of score** (from the source framework):
 - **A6 Visual anti-patterns (auto-fail):** speed-test / Mbps as hero · glowing routers, signal waves,
   fibre, data-centre imagery · stock corporate families in premium apartments · city skylines /
   abstract tech · app-UI screenshot as primary image.
+  **(carve-out) The Wiom pink WiFi mark / category glyph is NOT an anti-pattern — it is the category
+  launchpad (see the Stage-0 WiFi-symbol clarification). A6 bans generic telecom *signal* imagery
+  (glowing routers, radiating waves, fibre, data-centre), never our glyph.** *(resolves the false-positive
+  where a glyph-hero static cleared Stage 0 but died at A6.)*
 - **A7 Mobile legibility:** 6-element text budget · one-idea-once · 3-second phone-size test ·
   smallest-text-rule (small lines move to the caption).
 
@@ -89,6 +93,33 @@ rebalances the weights. Score each criterion **0–10, independently**, then wei
 - **Promise ≠ Mechanic** — Promise = *what I get* (outcome); Mechanic = *how it works* (recharge-by-days). Score separately.
 - **One line may earn two scores** if it does two distinct jobs — state the distinct reason for each.
 - For every criterion, write: the score · one sentence on *why it isn't higher* · one specific improvement.
+
+### Per-criterion score bands (v2.0)
+
+Anchors live here (in the `.md`) so rubric changes are reviewable and the reviewer agent reads them; the
+docx stays the narrative source.
+
+- **Hook / Thumb-Stop** — `0–2` generic / ignored · `3–4` surface interest, weak reason to continue ·
+  `5–6` noticeable but predictable · `7–8` strong entry, earns the next line · `9–10` exceptionally
+  distinctive, immediately processed, hard to ignore.
+- **Audience Relevance** — `0–2` could be for anyone · `3–4` vaguely implied / forced · `5–6` some
+  relevance but too much inference or generic · `7–8` the intended audience quickly gets why it matters ·
+  `9–10` immediate self-recognition, minimal decoding.
+  *(Relevance can be landed by **visuals, objects (router / recharge screen / day-chips), setting or copy** —
+  a human in frame is neither necessary nor sufficient. Do not dock a no-human creative on Audience.)*
+- **Motivation** — `0–2` no reason to care · `3–4` generic benefit / weak pain · `5–6` rational but not
+  sharp or emotional · `7–8` clear pain, desire or economic benefit · `9–10` strong emotional trigger,
+  fairness tension, or locked belief cracked (esp. L2).
+- **Product Promise** — `0–2` confusing / wrong category vocab · `3–4` some benefit but unclear /
+  undifferentiated · `5–6` understandable but generic or feature-led · `7–8` clear, on-category, valuable ·
+  `9–10` instantly understood, strongly positions the new category.
+- **Recharge Mechanic** — `0–3` absent or misunderstood (**fails the category requirement**) · `4–6`
+  flexibility implied but recharge-by-days not concrete · `7–8` clearly explained or shown · `9–10`
+  immediately clear **and** strengthened by proof, an exceptionally simple demonstration, or a
+  **no-upfront-cost carve-out ("0 shuruaati kharcha")** — **NOT a plan / recharge price anchor** (a price
+  anchor on a plan reads as "cheap plan" and is not credited).
+- **CTA** — `0–2` none / misleading · `3–4` generic or weak · `5–6` present but icon, clarity or prominence
+  missing · `7–8` correct CTA + expected cues · `9–10` clear CTA + useful supporting context, no clutter.
 
 ---
 
