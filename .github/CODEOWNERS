@@ -1,0 +1,9 @@
+# Default owner: everything requires Nikhil's review
+* @nikhilkajaria
+
+# Evaluation criteria + the engine mirror: owned by BOTH.
+# With "require code owner review" branch protection, an author's own
+# approval never counts - so every change here needs the OTHER party:
+# Shiva's eval PRs need Nikhil, Nikhil's eval changes need Shiva.
+/evaluation/ @nikhilkajaria @shivakimothi-design
+/reference/context_layer.md @nikhilkajaria @shivakimothi-design

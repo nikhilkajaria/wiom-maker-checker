@@ -27,7 +27,11 @@ Both halves of the category are co-equal:
 | Rule | **Jitne din recharge, utne din net** (JDRUDN) | States the operating logic (invariant — same for every user) |
 | Emotion | **Chale aapke hisaab se** | Names how it feels (user agency) |
 
-**Verbatim-required (label + rule):** RWGKN and JDRUDN must appear in their exact locked forms. They are category-memory assets — the thing repeated until it lodges.
+**Verbatim-required (rule):** JDRUDN must appear in its exact locked form — it is the invariant operating rule, the thing repeated until it lodges.
+
+**RWGKN — written vs. spoken:**
+- In written copy, end-slates, and brand overlays: use the exact locked form "Recharge-wala Ghar ka Net."
+- In spoken dialogue: natural Hindi inflections are acceptable — e.g. "Recharge Wale Ghar Ke Net", "Recharge-waale Ghar ka Net" — because Hindi case and gender agreement flex the label naturally in speech. The gate does not fail a creative for a spoken RWGKN variant.
 
 **Concept-required (benefit + emotion):** JZUR and "Chale aapke hisaab se" are concepts that must be communicated, not fixed phrases. The agency expresses the benefit (you only pay for what you need) and the feeling (it works on your terms, you're in control) in creative language appropriate to the need-state and format. The canonical phrases are reference articulations, not mandatory lines.
 
@@ -96,7 +100,7 @@ G1 must therefore not be tuned to demand that a short creative fully resolve com
 
 **Passes only if all three hold:**
 
-1. **Ghar anchor present.** Household / whole-home is explicit or unmistakable — in visual or audio. Non-optional.
+1. **Ghar anchor present.** Household / whole-home is explicit or unmistakable — in visual or audio. Non-optional. *(v1.2 clarification)* Satisfiable by **copy ("ghar ka net" stated), a home glyph, a home scene, OR audio** — a photographic home scene is **not** required (B&W / minimalist statics land the anchor via copy + a home glyph). Fails only when "home" is left purely *implied*.
 2. **Recharge-shape clear.** Pay-as-you-go / recharge behavior is conveyed, not buried.
 3. **No frame drift.** The creative does not land as "cheap WiFi," "flexible mobile data," or "budget broadband."
 
