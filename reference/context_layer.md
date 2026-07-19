@@ -100,13 +100,17 @@ G1 must therefore not be tuned to demand that a short creative fully resolve com
 
 **Passes only if all three hold:**
 
-1. **Ghar anchor present.** Household / whole-home is explicit or unmistakable — in visual or audio. Non-optional.
+1. **Ghar anchor present.** Household / whole-home is explicit or unmistakable — in visual or audio. Non-optional. *(v1.2 clarification)* Satisfiable by **copy ("ghar ka net" stated), a home glyph, a home scene, OR audio** — a photographic home scene is **not** required (B&W / minimalist statics land the anchor via copy + a home glyph). Fails only when "home" is left purely *implied*.
 2. **Recharge-shape clear.** Pay-as-you-go / recharge behavior is conveyed, not buried.
 3. **No frame drift.** The creative does not land as "cheap WiFi," "flexible mobile data," or "budget broadband."
 
 **Fail test:** "If a reviewer must supply the ghar anchor themselves to make the ad cohere, it fails."
 
 **Locked-anchor minimum:** JDRUDN (Jitne din recharge, utne din net) should appear verbatim at least once (typically end-slate or as a summary line). Other articulations of the mechanic and the benefit are encouraged (visual demos, dialogue walkthroughs, multi-person patterns, situational explanations) so creatives do not read as templated. But the locked anchor must land somewhere in the creative.
+
+**JDRUDN in statics (proposed Nikhil, 26-Jun-2026):** for STATIC creatives the verbatim JDRUDN line is NOT mandatory. A static that communicates the recharge rule + benefit through its own copy (comparison rows like "jab marzi tab recharge" / "jitna chalao utna recharge", duration chips) satisfies recharge-shape; JDRUDN variations are allowed. The locked verbatim form is required only when JDRUDN appears as a proposition / lockup unit (footer line beside the CTA). Do NOT iterate/fail a static solely for a missing verbatim JDRUDN footer. Video end-slates keep the verbatim requirement.
+
+**Constraint-first / MCR framing is NOT contamination (proposed Nikhil, 26-Jun-2026):** surfacing the monthly-commitment constraint (e.g. "mahine ka bandhan kyun?") is the L2/MCR need-state and a valid constraint-first opening (CF is the default story structure). A GENERIC category comparison (Wiom recharge vs "monthly plan", no named competitor, no price/speed/Mbps terms) passes. Contamination applies only when the creative names a competitor (Jio/Airtel/ACT) or argues on broadband's price/speed terms. Do NOT kill a constraint-first or comparison creative merely for leading with the monthly-commitment problem.
 
 ## 7. Gate 2 — Contamination / kill-list (binary)
 
@@ -121,6 +125,8 @@ G1 must therefore not be tuned to demand that a short creative fully resolve com
 **Fail test:** "Does the creative invite the user to compare Wiom against Jio/Airtel/broadband on their terms? If a kill-list word defines what Wiom IS (rather than what the user was looking for), it fails. If it only names the user's starting point and the creative then converts to RWGKN, it passes."
 
 **Common error to avoid:** Do NOT blanket-fail any creative containing "WiFi." Over-rejection kills legitimate capture-bridge creative. Check the *role* the word plays — bridge (PASS) vs identity (FAIL).
+
+**WiFi GLYPH vs the WORD "WiFi" (proposed Nikhil, 26-Jun-2026):** the kill-list targets the WORD "WiFi" used as Wiom's identity. The WiFi glyph / symbol is the LOCKED visual depiction of ghar ka net (ghar ka net = WiFi symbol, never mobile-signal bars) and is ALLOWED. Never flag the WiFi symbol / icon in a visual description as a G2 violation.
 
 ## 8. Audience layers (Messaging System v1.3 — LOCKED)
 
